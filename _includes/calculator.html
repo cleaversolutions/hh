@@ -1,0 +1,17 @@
+<h4>Space-Savings Calculator</h4>
+					<p class="lead">How many feet of clothes rods are in your closet? Don't forget to multiply by two if you have two rows. (The average two-person closet has 16 feet of hanging space)</p>
+					<form name="example" onkeypress="return event.keyCode != 13;" class="calc-form">
+						<input type="text" size="20" placeholder="Enter how many feet here" name="calculator">
+						<input type="button" name="B1" value="Click here to calculate" onclick="cal()">
+					</form>
+					<p id="space-savings"></p> 					
+					<script>
+					function cal(){
+						var savings = Math.round(eval(document.example.calculator.value*.77777));
+						var shoes = Math.round(eval(document.example.calculator.value*3));
+	
+   						document.getElementById("space-savings").innerHTML = "Higher Hangers will create " + savings + " cubic feet of NEW space in your closet. That is enough for about " + shoes + " shoeboxes!";
+   						document.getElementById("space-savings").className = "alert alert-success lead";
+
+						}
+					</script>

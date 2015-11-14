@@ -11,6 +11,7 @@ copyright: 'Copyright &copy; 2015 Higher Hangers. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 baseurl: "/hh"
 fb-img: NakedHangerComparisonFB.jpg
+nav-logo: nav_logo.png
 
 # ----------------------- #
 #    Jekyll & Plugins     #

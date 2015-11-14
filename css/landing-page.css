@@ -325,7 +325,10 @@ label {
 .mailchimp-intro p {
 	color: #555;
 }
-
-#mc_embed_signup_scroll {
+.mc_embed_signup_scroll {
 	padding: 14px;
+}
+
+.navbar-header img {
+	box-shadow: none;
 }
