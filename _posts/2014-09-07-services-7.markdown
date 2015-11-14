@@ -1,0 +1,9 @@
+---
+layout: default
+img: texturegrey.jpg
+img-caption: Velvet coating keeps clothes from sliding off.
+category: Services
+title: Popular Anti-Slip Coating Holds on to Your Clothes
+description: |
+---
+The velvet anti-slip coating on Higher Hangers makes sure that none of your clothes slip off. Any sweater, tank top, spaghetti strap, or v-neck style shirt will hang securely on Higher Hangers without falling off. People love this velvet coating compared to the slick traditional clothes hanger.

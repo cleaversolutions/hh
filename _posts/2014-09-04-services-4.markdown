@@ -1,0 +1,9 @@
+---
+layout: default
+img: collar.jpg
+img-caption: Higher Hangers are carefully designed to work with collared shirts. They are designed to directly replace your traditional clothes hangers and work with any type of clothing--pants, tee shirts, collared shirts, jackets, spaghetti straps.
+category: Services
+title: More Space, with No Tradeoff… What About Collared Shirts?
+description: |
+---
+People often incorrectly expect one drawback to Higher Hangers: they think that Higher Hangers won't work with collared shirts. Actually, Higher Hangers are carefully designed to allow for enough clearance for your collared shirts (take a look for yourself). Higher Hangers will work with any kind of clothing you would normally use with a traditional clothes hanger: pants, tee shirts, collared shirts, jackets, anything you can think of.

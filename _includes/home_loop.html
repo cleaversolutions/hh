@@ -1,13 +1,14 @@
 <section id="services">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
+  {% capture thecycle %}{% cycle '1', '2', '3', '4' %}{% endcapture %}
+    {% if thecycle == '1' or thecycle == '3' %}
     <div class="content-section-a">
 
         <div class="container">
 
             <div class="row">
+            {% if post.img %}
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
@@ -15,8 +16,19 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                    <img class="img-responsive" src="img/{{ post.img }}" alt="">
+                     <p class="caption">{{ post.img-caption }}</p>
+                     
                 </div>
+            {% else %}
+            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1">
+            		<hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <div class="lead">{{ post.content }}</div>
+            	</div>
+            
+            {% endif %}
             </div>
 
         </div>
@@ -31,6 +43,7 @@
         <div class="container">
 
             <div class="row">
+            {% if post.img %}
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
@@ -38,8 +51,19 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                  <img class="img-responsive" src="img/{{ post.img }}" alt="">
+                  <p class="caption">{{ post.img-caption }}</p>
                 </div>
+            {% else %}
+            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1">
+            		<hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <div class="lead">{{ post.content }}</div>
+            	</div>
+            
+            {% endif %}
+
             </div>
 
         </div>
@@ -47,6 +71,8 @@
 
     </div>
     <!-- /.content-section-b -->
+      
     {% endif %}
+{% if thecycle == '3' %}{% include contact.html %}{% endif %}
 {% endfor %}
 </section>

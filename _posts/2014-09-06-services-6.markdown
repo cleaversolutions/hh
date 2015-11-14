@@ -1,0 +1,9 @@
+---
+layout: default
+img: velvetprototype800x537.jpg
+img-caption: The special slimline design of Higher Hangers doesn't sacrifice strength.
+category: Services
+title: Strong Enough for Any Clothing
+description: |
+---
+Even though Higher Hangers feature space-saving slimline design, they also have a structure that allows for it to be very strong. Higher Hangers are strong enough for any heavy jeans, sweaters, coats, or jackets that you would ever want to hang.

@@ -21,30 +21,42 @@ h6 {
     font-weight: 700;
 }
 
+.topnav {
+    font-size: 14px; 
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
 }
 
 .intro-header {
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 0px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+   /* background: url(../img/intro-bg.jpg) no-repeat center center;*/
     background-size: cover;
+    background-color: #0AB2E0;
+    border-bottom: 2px solid #e7e7e7;
+}
+
+.intro-header h3 {
+	color: #333;
 }
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .intro-message > h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 5em;
+    /*text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
+    font-size: 3em;
+    color: #333;
+    text-align: center;
 }
 
 .intro-divider {
@@ -57,9 +69,10 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
+
 @media(max-width:767px) {
     .intro-message {
-        padding-bottom: 15%;
+        padding-bottom: 20px;
     }
 
     .intro-message > h1 {
@@ -110,14 +123,18 @@ h6 {
 }
 
 .banner {
-    padding: 100px 0;
+    padding: 20px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background-color: #0AB2E0;
+    /*background-color: #158BF7;*/
+    /*background-color: #337ab7;*/
+    /*background: url(../img/banner-bg.jpg) no-repeat center center;*/
     background-size: cover;
+    text-align: center;
 }
 
 .banner h2 {
-    margin: 0;
+    margin: 10px;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 3em;
 }
@@ -129,6 +146,11 @@ h6 {
 .banner-social-buttons {
     float: right;
     margin-top: 0;
+}
+
+.intro-header img {
+	padding-top: 20px;
+	box-shadow: none;
 }
 
 @media(max-width:1199px) {
@@ -157,10 +179,153 @@ h6 {
 }
 
 footer {
-    padding: 50px 0;
-    background-color: #f8f8f8;
+    padding: 10px 0;
+    /*background-color: #f8f8f8;*/
 }
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+/*Customizations*/
+
+blockquote {
+	font-size: 22px;
+}
+
+.col-lg-5 img {
+	margin-top: 20px;
+	
+}
+
+.img-responsive {
+	box-shadow: 5px 5px 10px #999999;
+}
+
+.caption {
+	color: #777;
+	font-style: italic;
+	text-align: center;
+	font-weight: normal;
+	margin-top: 5px;
+	font-size: 16px;	
+}
+
+input {
+	color: #777;
+	width: 100%;
+	height: 50px;
+	font-size: 22px;
+	font-weight: 100;
+	max-width: 300px;
+	border-radius: 6px;
+}
+
+label {
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+
+::-webkit-input-placeholder {
+   font-size: 22px;
+   text-align: center;
+}
+
+:-moz-placeholder  { /* Firefox 18- */
+   font-size: 22px;
+   text-align: center;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   font-size: 22px;
+   text-align: center;
+}
+
+:-ms-input-placeholder {  
+   font-size: 22px;
+   text-align: center;
+}
+
+.btn-default {
+	margin-top: 20px;
+	padding: 10px 20px 10px 10px;
+	font-size: 30px;
+	background-color: #f0f0f0;
+}
+
+.network-name {
+	font-size: 22px;
+}
+
+.no-shadow {
+	box-shadow: none;
+}
+
+.btn-success {
+	background-color: #01D38C;
+	height: 50px;
+	font-size: 22px;
+}
+
+.btn-success:hover {
+	background-color: #01A06A;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.grey {
+	background-color: #f8f8f8;
+}
+
+.thank-you {
+	font-size: 22px;
+}
+
+.mailchimp-intro {
+	border: 2px solid #c7c7c7;
+	border-radius: 10px;
+	margin-top: 20px;
+	background-color: #fff;
+}
+
+.mailchimp-intro label {
+	color: #333;
+}
+
+.embed-responsive.embed-responsive-16by9 {
+	margin-top: 20px;
+	border: 1px solid #e7e7e7;
+	margin-bottom: 20px;
+}
+
+.intro-banner {
+	background-color: #fff;
+	padding: 10px;
+}
+
+.calc-form {
+	margin-bottom: 10px;
+}
+
+.intro-header h4 {
+	color: #fff;
+	font-size: 2em;
+}
+
+.calc-form input {
+	color: #333;
+}
+
+.calc-form input[type=button] {
+	background-color: #ccc;
+}
+
+.mailchimp-intro p {
+	color: #555;
+}
+
+#mc_embed_signup_scroll {
+	padding: 14px;
 }

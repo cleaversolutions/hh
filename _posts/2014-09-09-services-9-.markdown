@@ -1,0 +1,9 @@
+---
+layout: default
+img: collarcomparison.jpg
+img-caption: The basic design of the clothes hanger hasn't changed in over 100 years. Bring your closet into the modern age with the new standard&#58; Higher Hangers.
+category: Services
+title: What Other Outdated Technology are You Using?
+description: |
+---
+Do you use a rotary telephone? What about a big, bulky, black and white television? Of course you don't. You have a smartphone and high definition flat-screen TV. But the basic design of the clothes hanger pre-dates those old, outdated technologies. Finally, in 2015, your closet can be brought into the 21st century with Higher Hangers, the first fundamental redesign of the traditional clothes hanger.
