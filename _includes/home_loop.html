@@ -2,7 +2,7 @@
 <!-- Page Content -->
 {% for post in site.posts reversed %}
 	 {% capture loop_index %}{{ forloop.index }}{% endcapture %}
-  {% capture thecycle %}{% cycle '1', '2', '3' %}{% endcapture %}
+  {% capture thecycle %}{% cycle '1', '2', '3', '4' %}{% endcapture %}
     {% if thecycle == '1' or thecycle == '3' %}
     <div class="content-section-a">
 
@@ -17,7 +17,7 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="{{ site.baseurl }}/img/{{ post.img }}" alt="">
+                    <img class="img-responsive" src="img/{{ post.img }}" alt="">
                      <p class="caption">{{ post.img-caption }}</p>
                      
                 </div>
@@ -52,7 +52,7 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="{{ site.baseurl }}/img/{{ post.img }}" alt="">
+                  <img class="img-responsive" src="img/{{ post.img }}" alt="">
                   <p class="caption">{{ post.img-caption }}</p>
                 </div>
             {% else %}
@@ -75,7 +75,7 @@
       
     {% endif %}
 	
-	{% if thecycle == '3' %}
+	{% if thecycle == '2' %}
 	
 	<section id="contact">
 	<div class="banner">

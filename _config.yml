@@ -13,13 +13,22 @@ baseurl: "/hh"
 fb-img: NakedHangerComparisonFB.jpg
 nav-logo: nav_logo.png
 
+#Live Website
+#baseurl: "/hh"
+#
+#
+
+#Localhost
+baseurl: ""
+destination:  /Users/Matt/Dropbox/01 higherhangers shared/_site
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none #pretty
 
 # ----------------------- #
 #   3rd Party Settings    #
