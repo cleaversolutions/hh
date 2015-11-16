@@ -219,6 +219,7 @@ input {
 	font-weight: 100;
 	max-width: 300px;
 	border-radius: 6px;
+	margin-bottom: 15px;
 }
 
 label {
