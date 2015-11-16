@@ -12,14 +12,12 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 baseurl: "/hh"
 fb-img: NakedHangerComparisonFB.jpg
 nav-logo: nav_logo.png
+baseurl: ""
 
 #Live Website
-#baseurl: "/hh"
-#
 #
 
 #Localhost
-baseurl: ""
 destination:  /Users/Matt/Dropbox/01 higherhangers shared/_site
 
 # ----------------------- #
