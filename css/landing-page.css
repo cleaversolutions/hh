@@ -333,3 +333,7 @@ label {
 .navbar-header img {
 	box-shadow: none;
 }
+
+.fb-like {
+    margin: 0 25px;
+}
