@@ -2,6 +2,7 @@
 layout: thankyou
 title: Thanks! You are now on the wait list. Check your email for instructions...
 subTitle: This is the subtitle
+fb-pixel-lead: yes
 ---
 
 <div id="fb-root"></div>
