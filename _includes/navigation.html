@@ -16,7 +16,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">  
-            	<li>
+            	<!--<li>
                     <a class="page-scroll" href="#about">About</a>
                 </li>            
                 <li>
@@ -24,12 +24,16 @@
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">Contact</a>
-                </li>
-                {% for page in site.pages %}{% if page.nav %}
+                </li>-->
+                {% for page in site.pages %}{% if page.nav-title %}
                 <li>
-                    <a href="{{ page.url }}">{{ page.title }}</a>
+                    <a href="{{ page.url }}">{{ page.nav-title }}</a>
                 </li>
                 {% endif %}{% endfor %}
+                <li>
+               <button type="button" class="btn-primary btn-md">
+  <i class="fa fa-shopping-cart"></i> Get Higher Hangers
+</button>                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->

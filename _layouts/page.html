@@ -4,17 +4,19 @@
 
 	<body>
 	    {% include navigation.html %}
+		{% include header-empty.html %}
 			<section id="services">	
 			
-			<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1">
-            		<hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-						{% if page.redirect %}<h3> Redirecting to <a href="{{ page.redirect }}">{{ page.redirect }}</a> ...</h3>{% endif %}
-						{{ content }}
-			</div>
+				
+											{{ content }}
+				
 			</section>
+			
+			
 		{% include contact.html %}
 		{% include footer.html %}
 		{% include js.html %}
 	</body>
 </html>
+
+{% if page.redirect %}<h3> Redirecting to <a href="{{ page.redirect }}">{{ page.redirect }}</a> ...</h3>{% endif %}
