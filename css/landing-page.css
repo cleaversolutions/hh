@@ -338,6 +338,12 @@ label {
     margin: 0 25px;
 }
 
-.navbar-nav .btn-primary {
-	margin: 10px;
+a.h2-link {
+	color: #ddd;
+	text-decoration: underline;
+}
+
+a:hover.h2-link {
+	color: #fff;
+	text-decoration: none;
 }
