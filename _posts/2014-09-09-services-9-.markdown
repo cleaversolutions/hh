@@ -2,7 +2,7 @@
 layout: default
 img: collarcomparison.jpg
 img-caption: The basic design of the clothes hanger hasn't changed in over 100 years. Bring your closet into the modern age with the new standard&#58; Higher Hangers.
-category: Services
+category: front-page
 title: What Other Outdated Technology are You Using?
 description: |
 ---

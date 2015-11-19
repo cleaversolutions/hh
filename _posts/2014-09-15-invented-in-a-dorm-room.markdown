@@ -1,6 +1,6 @@
 ---
 layout: default
-category: Services
+category: front-page
 title: Invented in a Dorm Room
 description: |
 ---

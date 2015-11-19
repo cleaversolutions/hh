@@ -2,7 +2,7 @@
 layout: default
 img: comparison800x500.jpg
 img-caption: A traditional clothes hanger next to a Higher Hangers prototype. Space-saving features of Higher Hangers allow many closets to double (or more) in capacity and allow for enhanced functionality.
-category: Services
+category: front-page
 title: Increase Your Closet Capacity with these Reinvented Space-Saving Clothes Hangers
 description: |
 ---

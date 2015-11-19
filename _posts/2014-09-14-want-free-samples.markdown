@@ -1,6 +1,6 @@
 ---
 layout: default
-category: Services
+category: front-page
 title: Want Free Samples?
 description: |
 ---

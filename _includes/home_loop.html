@@ -1,6 +1,6 @@
 <section id="services">
 <!-- Page Content -->
-{% for post in site.posts reversed %}
+{% for post in site.categories.front-page reversed %}
 	 {% capture loop_index %}{{ forloop.index }}{% endcapture %}
   {% capture thecycle %}{% cycle '1', '2', '3', '4' %}{% endcapture %}
     {% if thecycle == '1' or thecycle == '3' %}

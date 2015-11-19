@@ -1,6 +1,6 @@
 ---
 layout: default
-category: Services
+category: front-page
 title: How to Buy Higher Hangers at a Reduced Price
 description: |
 ---

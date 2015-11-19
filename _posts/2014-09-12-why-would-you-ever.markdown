@@ -1,6 +1,6 @@
 ---
 layout: default
-category: Services
+category: front-page
 title: Why Would You Ever Use Traditional (Obsolete) Clothes Hangers Again?
 description: |
 ---

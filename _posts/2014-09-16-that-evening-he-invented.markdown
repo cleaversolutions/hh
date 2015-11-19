@@ -1,8 +1,8 @@
 ---
 layout: default
-category: Services
 title: That Evening, He Invented Higher Hangers
 description: |
+category: front-page
 img: original.jpg
 img-caption: Actual prototype created in inventor's dorm room using pliers, lighter, and epoxy.
 ---

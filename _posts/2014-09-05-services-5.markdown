@@ -1,6 +1,6 @@
 ---
 layout: default
-category: Services
+category: front-page
 title: Fit More Clothes Next to One Another with Slimline Design
 description: |
 ---

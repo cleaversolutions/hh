@@ -2,7 +2,7 @@
 layout: default
 img: beforeandafter.jpg
 img-caption: Left&#58; traditional clothes hangers don't allow room for second row. Right&#58; Higher Hangers raise clothing enough to allow room for lower rod to increase closet capacity (early prototype pictured).
-category: Services
+category: front-page
 title: Double your closet capacity
 description: |
 ---
