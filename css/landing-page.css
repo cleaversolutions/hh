@@ -125,7 +125,7 @@ h6 {
     text-transform: uppercase;
     font-size: 14px;
     font-weight: 400;
-    letter-spacing: 2px;
+   /* letter-spacing: 2px;*/
 }
 
 .content-section-a {
@@ -286,7 +286,7 @@ label {
 }
 
 .network-name {
-	font-size: 22px;
+	font-size: 20px;
 }
 
 .no-shadow {
@@ -442,3 +442,4 @@ h3.perfect-for {
 img.img-responsive.nav-logo {
 	margin-top: 10px
 	}
+	
