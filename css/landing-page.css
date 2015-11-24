@@ -424,3 +424,12 @@ a:hover.h2-link {
     margin-left: 0;
   }
 }
+
+h2.perfect-for,
+h3.perfect-for {
+	text-align: center;
+}
+
+h3.perfect-for {
+	color: #49BB85;
+}

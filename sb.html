@@ -2,8 +2,8 @@
 layout: sb-layout
 title: Home
 subTitle: A Template by Start Bootstrap
-weight: 9
-nav-title: SB
+weight: 1
+nav-title: Home
 ---
 
 <section id="services">
@@ -20,12 +20,16 @@ nav-title: SB
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">What are Higher Hangers?</h2>
-                    <p class="lead">These are Higher Hangers</p>
+                    <ul class="lead"> 
+                    <li>Higher Hangers are clothes hangers reinvented. For over 100 years, clothes hangers have been eating up 11% (???????) of your closet space because of a silly design flaw.</li>
+                    <li>Higher Hangers have a patented design that creates 48 shoeboxes worth of NEW space in an AVERAGE closet. <a href="#calculator" class="page-scroll">Calculate how much space you can create in your own closet here…</a></li>
+                    <li>Higher Hangers are available in 2 premium styles. Black velvet flocked (non-slip) slimline, and clean, luxurious white <a href="#">HDF wood*</a>, both with chrome metal hooks.</li> 
+</ul>
                 </div>
                 
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/beforeandafter.jpg" alt="">
-                     <p class="caption">Caption</p>   
+                    <img class="img-responsive" src="img/comparison800x500.jpg" alt="">
+                     <p class="caption">Create 48 shoeboxes worth of NEW space in an AVERAGE closet by taking advantage of unused space.</p>   
                 </div>
              
              </div>
@@ -37,7 +41,7 @@ nav-title: SB
 <!-- END /.content-section-a -->
 
 <!-- BEGIN .content-section-b -->
-    <div class="content-section-b">
+    <div  id="calculator" class="content-section-b">
 
         <div class="container">
 
@@ -46,12 +50,12 @@ nav-title: SB
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+                    <h2 class="section-heading">Calculate Your Space Savings</h2>
+                    <div class="lead">{% include calculator.html %}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/{{ post.img }}" alt="">
-                  <p class="caption">{{ post.img-caption }}</p>
+                  <img class="img-responsive" src="img/beforeandafter.jpg" alt="">
+                  <p class="caption">Look at how much new space is created compared to a traditional clothes hanger.</p>
                 </div>
             </div>
 
@@ -60,72 +64,78 @@ nav-title: SB
 
     </div>
 <!-- END /.content-section-b -->
-
-<!-- BEGIN .content-section-a -->
-    <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-                
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Heading</h2>
-                    <p class="lead">Stuff</p>
-                </div>
-                
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/beforeandafter.jpg" alt="">
-                     <p class="caption">Caption</p>   
-                </div>
-             
-             </div>
-
-        </div>
-        <!-- /.container -->
-
-	</div>
-<!-- END /.content-section-a -->
     
-    <div class="content-section-a">
+<!-- BEGIN /.content-section-a -->   
+     <div class="content-section-a">
 
         <div class="container">
 
             <div class="row">
-  
             	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1">
-            		<hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+                    <h2 class="section-heading perfect-for">Higher Hangers are Perfect For:</h2>
             	</div>
+            </div>
+
+            <div class="row">
+            	<div class="col-md-4 col-md-offset-1 col-sm-12">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">Creating Extra Space</h3>
+                    <p class="lead">XX shoe boxes, extra space avg closet, etc (link to calc?)</p>
+            	</div>
+            	<div class="col-md-4 col-md-offset-2 col-sm-12">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">Reducing clutter</h3>
+                    <p class="lead">Hang your clothes bunch-free. See your shoes. Find what you need.</p>
+            	</div>	
+            </div>
             
-     
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-a -->
-    
-     <div class="content-section-b">
-
-        <div class="container">
-
             <div class="row">
-
-            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1">
-            		<hr class="section-heading-spacer">
+            	<div class="col-md-4 col-md-offset-1 col-sm-12">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Heading</h2>
-                    <div class="lead">Stuff</div>
+                    <h3 class="perfect-for">Keeping your clothes clean</h3>
+                    <p class="lead">Get your clothes off the floor and away from shoes or other accessories.</p>
             	</div>
-           
+            	<div class="col-md-4 col-md-offset-2 col-sm-12">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">Reducing wrinkles</h3>
+                    <p class="lead">Nobody likes wrinkles, that’s why you hang your clothes. Keep your clothes from wrinkling up on the bottom by using Higher Hangers.</p>
+            	</div>	
+            </div>
+            
+          	<div class="row">
+            	<div class="col-md-4 col-md-offset-1 col-sm-12">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">Establishing peace</h3>
+                    <p class="lead">An organized environment is fundamental to a peaceful life. Create a happy space, especially one that you use everyday and often in a hurry to get on your way on time and at peace. </p>
+            	</div>
+            	<div class="col-md-4 col-md-offset-2 col-sm-12">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">Showing up to appointments and events relaxed</h3>
+                    <p class="lead">Life’s too short to show up flustered. A hot date, interview, or just a girls’ night out. Wouldn’t it be nice to show up comfortable, confident, and content? </p>
+            	</div>	
+            </div>
+            
+            <div class="row">
+            	<div class="col-md-4 col-md-offset-1 col-sm-12">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">Sleeveless Garments - Dresses, Tank Tops, Pants</h3>
+                    <p class="lead">Velvet-coated Higher Hangers are perfect for garments that might slide off of a typical clothes hanger, or pants that need a horizontal hanging rod.</p>
+            	</div>
+            	<div class="col-md-4 col-md-offset-2 col-sm-12">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">Sleeved, Collared, or Button-Up Style Shirts</h3>
+                    <p class="lead">Of course, any shirt will work with velvet-coated Higher Hangers. For the ultimate style,  wood* Higher Hangers provide a thicker hanging surface perfect for dress shirts. </p>
+            	</div>	
+            </div>
+            
+			<div class="row">
+            	<div class="col-md-4 col-md-offset-4 col-sm-12">
+            	<a href="faq.html" class="btn btn-success btn-lg"><i class="fa fa-question-circle fa-fw"></i> <span class="network-name">See Our FAQ Page</span></a>
+            	</div>
 
             </div>
-
+		
         </div>
         <!-- /.container -->
 
