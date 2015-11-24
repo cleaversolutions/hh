@@ -114,6 +114,11 @@ h6 {
     .intro-header.sb h1 {
 	padding-top: 10px;
 	}
+	
+	img.img-responsive.nav-logo {
+	max-width: 250px;
+	margin-left: 10px;
+	}
 }
 
 .network-name {
@@ -433,3 +438,7 @@ h3.perfect-for {
 h3.perfect-for {
 	color: #49BB85;
 }
+
+img.img-responsive.nav-logo {
+	margin-top: 10px
+	}
