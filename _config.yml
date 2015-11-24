@@ -41,3 +41,7 @@ social:
     url: 
 
 opt-in-text: Yes! I Want Higher Hangers
+
+collections:
+  - text_files
+  - perfect_for
