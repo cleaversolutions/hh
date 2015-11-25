@@ -69,6 +69,8 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
   ga('send', 'pageview');
 
 </script>
-{% if page.fb-pixel-viewcontent %}{% include fb-pixel-viewcontent.html %}{% endif %}
-{% if page.fb-pixel-lead %}{% include fb-pixel-lead.html %}{% endif %}
+{% if page.fb-pixel-lead %}{% include fb-pixel-lead.html %}
+{% else %}
+{% include fb-pixel-viewcontent.html %}
+{% endif %}
 </head>
