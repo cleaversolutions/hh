@@ -84,7 +84,7 @@
 			<div class="row">
 				<!-- Begin MailChimp Signup Form -->
 <div class="mc_embed_signup">
-<form action="http://cleaversolutions.us2.list-manage.com/subscribe/post?u=fe9df1b56e5c855f42142ab39&amp;id=461ae7231a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="http://cleaversolutions.us2.list-manage.com/subscribe/post?u=fe9df1b56e5c855f42142ab39&amp;id=461ae7231a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onsubmit="ga('send', 'event', 'Subscribe', 'submit', '{{ page.url }}-{{ loop_index }}');" novalidate>
     <div class="row">
     <div class="mc_embed_signup_scroll">
 	<h2>Want $200 Worth of FREE Higher Hangers?</h2>
@@ -102,7 +102,7 @@
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_fe9df1b56e5c855f42142ab39_461ae7231a" tabindex="-1" value=""></div>
     <input type="hidden" name="MMERGE7" id="MMERGE7" value="{{ page.url }}-{{ loop_index }} " />
-    <div class="clear col-md-4"><input type="submit" value="{{ site.opt-in-text }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn-lg btn-success" onsubmit="ga('send', 'event', 'Subscribe', 'submit', '{{ page.url }}-{{ loop_index }}');"></div></div>
+    <div class="clear col-md-4"><input type="submit" value="{{ site.opt-in-text }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn-lg btn-success"></div></div>
     <p class="waitlist col-md-12">100% Privacy. No games, no BS, no spam.</p>
     </div>
 </form>
