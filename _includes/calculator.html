@@ -2,7 +2,7 @@
 					<p class="lead">How many feet of clothes rods are in your closet? Don't forget to multiply by two if you have two rows. (The average two-person closet has 16 feet of hanging space)</p>
 					<form name="example" onkeypress="return event.keyCode != 13;" class="calc-form">
 						<input type="text" size="20" placeholder="Enter how many feet here" name="calculator">
-						<input type="button" name="B1" value="Click here to calculate" onclick="cal()">
+						<input type="button" name="B1" value="Click here to calculate" onclick="cal(); ga('send', 'event', 'Button', 'click', '{{ page.url }}-calculator');">
 					</form>
 					<p id="space-savings"></p> 					
 					<script>

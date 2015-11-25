@@ -41,6 +41,8 @@ social:
     url: 
 
 opt-in-text: Yes! I Want Higher Hangers
+get-text: Get Higher Hangers
+get-url: /form.html
 
 collections:
   - text_files

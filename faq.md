@@ -22,7 +22,7 @@ Absolutely. We maximized the design to save space but allowed just enough room f
 
 No way. We tested several manufacturers to make sure we found the highest quality manufacturer, so the velvet coating keeps your clothes from slipping off, but always stays on the hangers. 
 
-### What is HDF material?
+<h3 id="hdf">What is HDF material?</h3>
 
 HDF (high density fiberboard) has been used for years in high quality wood flooring for its superb durability. HDF is now being used for hangers, and Higher Hangers are the first HDF hangers in the United States bringing all the qualities of wood hangers (thick, durable, & aesthetic) at a price that everyone can afford. They are perfect for dress shirts where non-slip isn’t a priority. 
 

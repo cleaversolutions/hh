@@ -1,13 +1,13 @@
 <section id="contact">
 	<div class="banner">
 		<div class="container">
-
+{% if page.url != '/form.html' %}
 			<div class="row">
 				<!-- Begin MailChimp Signup Form -->
-	<h2>Seen Enough Already? <a href="form.html" class="btn btn-success btn-lg"><i class="fa fa-arrow-right fa-fw"></i> <span class="network-name">Get Higher Hangers</span></a></h2>
+	<h2>Seen Enough Already? <a href="{{ site.get-url }}" class="btn btn-success btn-lg"><i class="fa fa-arrow-right fa-fw"></i> <span class="network-name">{{ site.get-text }}</span></a></h2>
 	<!--End mc_embed_signup-->
 			</div>
-
+{% endif %}
 		</div>
 		<!-- /.container -->
 
