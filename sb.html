@@ -52,6 +52,7 @@ nav-title: Home
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Calculate Your Space Savings</h2>
                     <div class="lead">{% include calculator.html %}</div>
+                    <p><a href="faq.html#faq-6">Click here to read the FAQ page if you want to know the math behind the calculator</a>.</p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                   <img class="img-responsive" src="img/beforeandafter.jpg" alt="">
@@ -108,5 +109,28 @@ nav-title: Home
         <!-- /.container -->
 
     </div>
-    <!-- /.content-section-b -->
+    <!-- /.content-section-a -->
+    
+<!-- BEGIN /.content-section-b -->   
+     <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1 lead">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading perfect-for">Frequently Asked Questions</h2>
+                                 
+                    {% for faq in site.faq limit:3 %}
+                    <h3>{{ faq.title }}</h3>
+                    <p class="lead">{{ faq.content }}</p>
+            		{% endfor %}
+
+                    <a href="faq.html" class="btn btn-success btn-lg" onclick="ga('send', 'event', 'Button', 'click', '{{ page.url }}-faq');"><i class="fa fa-question-circle fa-fw"></i> <span class="network-name">Read More FAQs</span></a>
+                    
+                    
+            	</div>
+            </div>
+         </div>
+       </div>
 </section>
