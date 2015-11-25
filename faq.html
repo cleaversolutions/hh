@@ -1,0 +1,12 @@
+---
+layout: one-column
+title: Frequently Asked Questions
+subTitle: A Template by Start Bootstrap
+nav-title: FAQs
+weight: 9
+---
+
+					{% for faq in site.faq  %}
+                    <h3 id="faq-{{ forloop.index }}">{{ forloop.index }}.) {{ faq.title }}</h3>
+                    <p class="lead">{{ faq.content }}</p>
+            		{% endfor %}                
