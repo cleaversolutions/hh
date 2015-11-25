@@ -22,7 +22,7 @@
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_fe9df1b56e5c855f42142ab39_461ae7231a" tabindex="-1" value=""></div>
     <input type="hidden" name="MMERGE7" id="MMERGE7" value="{{ page.url }}-1" />
-    <div class="clear col-md-12"><input type="submit" value="{{ site.opt-in-text }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn-lg btn-success"></div></div>
+    <div class="clear col-md-12"><input type="submit" value="{{ site.opt-in-text }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn-lg btn-success" onsubmit="ga('send', 'event', 'Subscribe', 'submit', '{{ page.url }}-1');"></div></div>
     
     </div>
 </form>
