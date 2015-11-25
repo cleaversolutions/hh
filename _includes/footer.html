@@ -3,7 +3,6 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                {% assign pages = site.pages | sort:"weight"  %}
             <ul class="list-inline">  
             	            	
             	<!--<li>
@@ -18,7 +17,7 @@
                 {% assign pages = site.pages | sort:"weight"  %}
                 {% for p in pages %}{% if p.nav-title %}
                 <li>
-                    <a href="{{ p.url }}">{{ p.nav-title }}</a>
+                    <a href="{{ p.url }}" onclick="ga('send', 'event', 'Navigation-Footer', 'click', 'current_{{ page.url }}-target_{{ p.url }}');">{{ p.nav-title }}</a>
                 </li>
                 <li class="footer-menu-divider">&sdot;</li>
                 {% endif %}{% endfor %}
@@ -29,7 +28,7 @@
                 </li>-->
                 
                 <li>
-               <a href="/form.html">Get Higher Hangers</li>
+               <a href="{{ site.get-url }}" onclick="ga('send', 'event', 'Get-HH', 'click', '{{ page.url }}-footer-nav');">{{ site.get-text }}</a></li>
             </ul>
 
                 

@@ -30,7 +30,7 @@
                 {% assign pages = site.pages | sort:"weight"  %}
                 {% for p in pages %}{% if p.nav-title %}
                 <li>
-                    <a href="{{ p.url }}">{{ p.nav-title }}</a>
+                    <a href="{{ p.url }}" onclick="ga('send', 'event', 'Navigation-Header', 'click', 'current_{{ page.url }}-target_{{ p.url }}');">{{ p.nav-title }}</a>
                 </li>
                 {% endif %}{% endfor %}
                 <!--<li><a href="/sb.html" class="dropdown-toggle" data-toggle="dropdown">Dropdown</a>
@@ -40,7 +40,7 @@
                 </li>-->
                 
                 <li>
-               <a href="{{ site.get-url }}"><button type="button" class="btn-primary btn-md">
+               <a href="{{ site.get-url }}" onclick="ga('send', 'event', 'Get-HH', 'click', '{{ page.url }}-header-nav');"><button type="button" class="btn-primary btn-md">
   <i class="fa fa-arrow-right"></i> {{ site.get-text }}</button></a>                </li>
             </ul>
         </div>
