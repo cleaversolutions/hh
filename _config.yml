@@ -47,3 +47,4 @@ get-url: /form.html
 collections:
   - text_files
   - perfect_for
+  - faq
