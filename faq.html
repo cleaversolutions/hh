@@ -7,6 +7,11 @@ weight: 9
 ---
 
 					{% for faq in site.faq  %}
-                    <h3 id="faq-{{ forloop.index }}">{{ forloop.index }}.) {{ faq.title }}</h3>
+                    <div id="faq-{{ forloop.index }}"></div>
+                    <br>
+                    <br>
+                    <h3>{{ forloop.index }}.) {{ faq.title }}</h3>
                     <p class="lead">{{ faq.content }}</p>
-            		{% endfor %}                
+            		{% endfor %}  
+            		
+            		<a href="contact.html" class="btn btn-success btn-lg" onclick="ga('send', 'event', 'Button', 'click', '{{ page.url }}-contact');"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">More questions? Contact me</span></a>              
