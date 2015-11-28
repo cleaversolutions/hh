@@ -16,7 +16,7 @@ It’s very simple math. Here’s how…
 
 6) Multiply everything out and with 16 feet of hanging space and Higher Hangers create over **10 cubic feet** of new space in an *average* closet. That’s enough for **48 shoeboxes**, or **at least 13 carry-on pieces of luggage** (using the max allowed dimensions of major airlines). It’s also the size of a European-style refrigerator (5ft tall x 2ft wide). 
 
-Our formula = Total Amount of Hanging Space In Feet divided by .333 (<sup>1</sup>&frasl;<sub>3</sub>) Feet (4 inches, half the 8” shoebox width since there are 2 shoeboxes deep). That’s it. 
+Our formula = Total Amount of Hanging Space In Feet divided by .333 Feet (equal to 4 inches, half the 8” shoebox width since there are 2 shoeboxes deep). That’s it. 
 
 If we were an *As Seen on TV company*, we’d just use the dishonest, raw dimensions (step 1), and the total actual space savings is equivalent to about 52 shoe boxes.
 

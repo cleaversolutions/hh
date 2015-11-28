@@ -1,5 +1,5 @@
 ---
-title: What is HDF material? (Used in faux wood hangers)
+title: What is HDF material?
 ---
 
 High-density fiberboard (HDF), is an engineered wood product that's been used in wood flooring substrate for years but just now being used to make hangers that have all the qualities of solid-wood hangers (thick, durable, gorgeous), for a fraction of the price. I wouldn't try to snap one over my leg like baseball bat. They're stout. Unlike particle board, HDF will not split or crack.
