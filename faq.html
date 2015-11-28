@@ -12,6 +12,12 @@ weight: 9
                     <br>
                     <h3>{{ forloop.index }}.) {{ faq.title }}</h3>
                     <p class="lead">{{ faq.content }}</p>
+            		{% if forloop.index == 6 %}
+            		<div style="background-color: #fff; border: 2px solid #ddd; margin-bottom: 10px; padding: 10px; border-radius: 5px;">
+            		{% include calculator.html %}
+            		</div>
+            		{% endif %}
+            		
             		{% endfor %}  
             		
             		<a href="contact.html" class="btn btn-success btn-lg" onclick="ga('send', 'event', 'Button', 'click', '{{ page.url }}-contact');"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">More questions? Contact me</span></a>              
