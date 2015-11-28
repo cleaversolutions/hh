@@ -9,8 +9,9 @@
 					function cal(){
 						var savings = Math.round(eval(document.example.calculator.value*.666666666));
 						var shoes = Math.round(eval(document.example.calculator.value*3));
-	
-   						document.getElementById("space-savings").innerHTML = "Higher Hangers will create " + savings + " cubic feet of NEW space in your closet. That is enough for about " + shoes + " shoeboxes!";
+						var luggage = Math.round(eval(document.example.calculator.value/1.6));
+						
+   						document.getElementById("space-savings").innerHTML = "Higher Hangers will create " + savings + " cubic feet of NEW space in your closet. That is enough for about " + shoes + " shoeboxes or the same space as " + luggage + " pieces of carry-on luggage!";
    						document.getElementById("space-savings").className = "alert alert-success lead";
 
 						}
