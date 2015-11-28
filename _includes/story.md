@@ -5,7 +5,7 @@ Founder & Inventor of Higher Hangers
 
 Two months into my freshman year of college, I was trying to make my new home more organized and peaceful. My pre-depression built dorm (est. 1921) was about 139 square feet (shared with a roommate), so you can imagine my closet situation. It was crammed full with clothes squished between the upper and lower closet rods. The top clothes were overflowing onto the lower clothes, and the bottom row wrinkled up on the floor with no space for shoes or anything. 
 
-I took a step back took a look into this swamp thing of a closet, and noticed a huge gap between my clothes and the closet rods. Why? I have no idea. Clothes hangers haven’t changed in their design since they were invented in the 1800s. With all the unused vertical space, I knew there was no practical reason for a clothes hanger hook to be 4-5” higher than the clothes, it was just the way it had always been. I knew there had to be a better way. I took an existing plastic clothes hanger, some pliers, and a lighter, and started hacking away…
+I took a step back to look into this swamp thing of a closet, and noticed a huge gap between my clothes and the closet rods. Why? I have no idea. Clothes hangers haven’t changed in their design since they were invented in the 1800s. With all the unused vertical space, I knew there was no practical reason for a clothes hanger hook to be 4-5” higher than the clothes, it was just the way it had always been. I knew there had to be a better way. I took an existing plastic clothes hanger, some pliers, and a lighter, and started hacking away…
 
 ## The Evening I Invented Higher Hangers
 
