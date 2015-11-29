@@ -1,7 +1,171 @@
 ---
-layout: default
-title: Clothes Hangers Designed WRONG For 100 years. New Design Saves MASSIVE Space.
-subTitle: This is the subtitle
-fb-pixel-viewcontent: yes
-google-experiment: yes
+layout: sb-layout
+title: Home
+subTitle: A Template by Start Bootstrap
+weight: 1
+nav-title: Home
 ---
+
+<section id="services">
+<!-- Page Content -->
+
+<!-- BEGIN .content-section-a -->
+    <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+                
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">What are Higher Hangers?</h2>
+                    <ul class="lead"> 
+                    <li>Higher Hangers are clothes hangers reinvented. Since 1869, hangers have had a design flaw that wastes space. Higher Hangers have a patented a space saving geometry that <strong>creates room for 48 shoe boxes (or 7 carry-on pieces of luggage) in an average closet.</strong> <a href="#calculator" class="page-scroll">Calculate how much space you can create in your own closet here...</a></li>
+					<li>All you do is replace your hangers with Higher Hangers. They work by lowering the hanger hook, which raises clothes higher, closer to the closet rod, creating new space underneath. The design maximizes efficiency while retaining function with all styles of clothing, including collared shirts.</li>
+	               	<li>Higher Hangers are available in 2 premium styles. Black velvet coated (non-slip) slimline, and clean, luxurious white <a href="faq.html#faq-5">HDF wood</a>, both with chrome metal hooks.</li> 
+</ul>
+                </div>
+                
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="img/comparison800x500.jpg" alt="">
+                     <p class="caption">Create 48 shoeboxes worth of NEW space in an <em>average</em> closet by taking advantage of wasted space.</p>   
+                </div>
+             
+             </div>
+
+        </div>
+        <!-- /.container -->
+
+	</div>
+<!-- END /.content-section-a -->
+
+<!-- BEGIN .content-section-b -->
+    <div  id="calculator" class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+      
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Calculate Your Space Savings</h2>
+                    <div class="lead">{% include calculator.html %}</div>
+                    <p><a href="faq.html#faq-6">Click here for an explanation of the math behind the calculator</a>.</p>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                  <img class="img-responsive" src="img/beforeandafter.jpg" alt="">
+                  <p class="caption">Look at how much new space is created compared to traditional hangers (early prototypes shown on right).</p>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+<!-- END /.content-section-b -->
+    
+<!-- BEGIN /.content-section-a -->   
+     <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading perfect-for">Higher Hangers Are Perfect For:</h2>
+            	</div>
+            </div>
+
+<!-- BEGIN Perfect For Loop-->
+{% for text in site.perfect_for %}
+	 {% capture loop_index %}{{ forloop.index }}{% endcapture %}
+  {% capture thecycle %}{% cycle '1', '2' %}{% endcapture %}
+
+{% if thecycle == '1' %}
+    
+   <div class="row">
+            	<div class="col-md-4 col-md-offset-1 col-sm-12 lead">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">{{ text.title }}</h3>
+                    <p class="lead">{{ text.content }}</p>
+            	</div>        	
+    {% else %}
+
+          <div class="col-md-4 col-md-offset-2 col-sm-12 lead">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">{{ text.title }}</h3>
+                    <p class="lead">{{ text.content }}</p>
+            	</div>	
+            </div>
+    {% endif %}
+{% endfor %}
+<!-- END Perfect For Loop -->
+
+
+		
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+    
+<!-- BEGIN /.content-section-b -->   
+     <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 lead">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading perfect-for">Two Styles of Higher Hangers</h2>    
+            	</div>
+            </div>
+            
+            <div class="row">
+            	<div class="col-lg-5 col-lg-offset-1 col-sm-12 lead">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading perfect-for">Velvet Coated Slimline</h2>    
+                    <p>Velvet-coated Higher Hangers are perfect for garments that might slide off typical hangers like dresses, strappy shirts, pants and skirts. They also have a slim profile that allows more hangers to fit next to one another.</p>
+            	</div>
+            	
+            	<div class="col-lg-5 col-sm-12 lead">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading perfect-for">HDF Wood-Style</h2>    
+                    <p>Any shirt will work with velvet-coated Higher Hangers, but I personally recommend HDF for sleeved, collared, or dress shirts. For ultimate style, HDF Higher Hangers provide a clean look and a thick hanging surface for more shoulder support. They're incredibly durable and will last a lifetime. <a href="faq.html#faq-5">Click here to learn more about the HDF material used to make these hangers</a>.</p>
+            	</div>
+            	
+            </div>
+
+            
+         </div>
+       </div><!-- END /.content-section-b --> 
+
+<!-- BEGIN /.content-section-a -->   
+     <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1 lead">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading perfect-for">Frequently Asked Questions</h2>
+                                 
+                    {% for faq in site.faq limit:3 %}
+                    <h3>{{ faq.title }}</h3>
+                    <p class="lead">{{ faq.content }}</p>
+            		{% endfor %}
+
+                    <a href="faq.html" class="btn btn-success btn-lg" onclick="ga('send', 'event', 'Button', 'click', '{{ page.url }}-faq');"><i class="fa fa-question-circle fa-fw"></i> <span class="network-name">Read More FAQs</span></a>
+                    
+                    
+            	</div>
+            </div>
+         </div>
+       </div><!-- END /.content-section-a --> 
+       
+       
+       
+       
+</section>
