@@ -1,5 +1,5 @@
 ---
-title: Showing up to appointments and events relaxed
+title: Arriving Relaxed
 ---
 
-Life’s too short to show up flustered. A hot date, interview, or just a girls’ night out. Wouldn’t it be nice to show up comfortable, confident, and content?
+Life’s too short to show up flustered. Wouldn’t it be nice to show up to work, a hot date, or just a night out comfortable, confident, and content?

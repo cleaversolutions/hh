@@ -2,4 +2,4 @@
 title: Creating Extra Space
 ---
 
-The average master bedroom closet wastes over 10 cubic feet of space using traditional hangers. Those 10 cubic feet are big enough to fit 48 shoeboxes (<a href="#calculator" class="page-scroll">calculate your closet here</a>).
+An average master closet has over 10 cubic feet of wasted space due to traditional hangers. With Higher Hangers, you now have enough space to fit 48 shoeboxes. (<a href="#calculator" class="page-scroll">calculate your closet here</a>).
