@@ -31,5 +31,4 @@ Let’s say your shirt collars happen to *touch* the closet rod. I say *touch* s
 
 Worst case scenario, about 1/4” (6mm) of your collar might lightly touch the closet rod. Your closet rod has a smooth finish, there’s virtually no pressure on the collar, and they’re hanging peacefully in a still, clean, dark, climate-controlled environment while not touching the floor or dirty shoes. 
 
-Compare that to what we do when wearing and laundering our clothes once more, and please comment below if this helped answer any questions or concerns. I love hearing from you!  
-   
+Compare that to what we do when wearing and laundering our clothes once more, and you’ll realize that your collars are safe with Higher Hangers.
