@@ -2,6 +2,8 @@
 title: 48 shoeboxes of new space? How do you calculate that?
 ---
 
+<img class="img-responsive" src="img/shoebox.jpg"/>
+
 It’s very simple math. Here’s how…
 
 1) One of the most popular shoe storage boxes on Amazon.com has dimensions of 11.8” (deep) x 7.4” (wide) x 3.8” (tall). 
