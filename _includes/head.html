@@ -17,13 +17,14 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 <!-- End of Google Analytics Content Experiment code -->
     {% endif %}
         
-    <!--<link rel="canonical" href="http://higherhangers.com" />-->
+    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
     <meta name="author" content="{{ site.author }}">
-    <link rel="icon" href="	img/favicon.ico">
+    <link rel="icon" href="img/favicon.ico">
+    {% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
 
 	<!--FB OG-->
     <meta property="og:type"          content="website" /> 
