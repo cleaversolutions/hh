@@ -148,19 +148,23 @@ nav-title: Home
         <div class="container">
 
             <div class="row">
-            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1 lead">
+            	
+            	<div class="col-lg-6 col-sm-push-6 col-sm-6 lead">
+                    <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading perfect-for">Frequently Asked Questions</h2>
-                                 
-                    {% for faq in site.faq limit:3 %}
+                    <h2 class="section-heading">Frequently Asked Questions</h2>
+                   	{% for faq in site.faq limit:3 %}
                     <h3>{{ faq.title }}</h3>
                     <p class="lead">{{ faq.content }}</p>
             		{% endfor %}
 
                     <a href="faq.html" class="btn btn-success btn-lg" onclick="ga('send', 'event', 'Button', 'click', '{{ page.url }}-faq');"><i class="fa fa-question-circle fa-fw"></i> <span class="network-name">Read More FAQs</span></a>
-                    
-                    
-            	</div>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                  <img class="img-responsive" src="img/collaredshirt.jpg" alt="">
+                  <p class="caption">Yes, Higher Hangers work with collared shirts. <a href="/do-collared-shirts-hit.html">Here's an in-depth explanation</a>.</p>
+                </div>
+
             </div>
          </div>
        </div><!-- END /.content-section-a --> 
