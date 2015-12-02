@@ -4,6 +4,7 @@ img: collaredshirt.jpg
 img-caption: A traditional clothes hanger next to a Higher Hangers prototype. Space-saving features of Higher Hangers allow many closets to double (or more) in capacity and allow for enhanced functionality.
 title: Yes, Higher Hangers Work With Collared Shirts
 description: This is a common concern but here’s how & why it’s not an issue at all.
+index: yes
 ---
 
 This is the most common concern I’ve heard when people see Higher Hangers, so I wanted to explain how and why it’s nothing to be worried about.  
