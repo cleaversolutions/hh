@@ -31,3 +31,5 @@ fb-pixel-lead: yes
 		<div class="fb-like" data-href="https://www.facebook.com/higherhangers" data-layout="standard" data-action="like" data-show-faces="true" data-share="false"></div>
  	</div>   
  </div>
+
+<img height="1" width="1" alt="" src="https://ct.pinterest.com/?tid=gXbGzYaa5Uy"/>
