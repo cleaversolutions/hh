@@ -9,7 +9,7 @@ index: yes
 
 This is the most common concern I’ve heard when people see Higher Hangers, so I wanted to explain how and why it’s nothing to be worried about. 
 
-<img src="img/hangercomparison2-2.gif" class="img-responsive" alt="Collared Shirt Animation">
+<img src="img/hangercomparison2-3.gif" class="img-responsive" alt="Collared Shirt Animation">
 
 ## Collared Shirts Work Great With Higher Hangers
 Inherently, by raising clothes up *higher* you are bringing them closer to the closet rod. Most collared shirts that I’ve tried don’t touch at all. The collar naturally has a flat profile keeping it off the rod. Just like when you’re wearing the shirt, the collar wraps around your neck, it doesn’t touch you in the back of your head.  
