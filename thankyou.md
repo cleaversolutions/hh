@@ -1,6 +1,6 @@
 ---
 layout: thankyou
-title: Thanks! You are now on the wait list. Check your email for instructions...
+title: Thanks! You are now on the wait list. Be on the lookout for updates towards the end of February.
 subTitle: This is the subtitle
 fb-pixel-lead: yes
 ---
@@ -10,7 +10,7 @@ fb-pixel-lead: yes
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=194581360877232";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=126092547501452";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -18,9 +18,9 @@ fb-pixel-lead: yes
 
  	<div class="col-md-10 col-md-offset-1">
 
-		<p class="lead thank-you">An email should be arriving in your inbox soon with special instructions how to be eligible to receive $200 worth of Higher Hangers.</p>
+		<p class="lead thank-you">I will send out an email towards the end of February with details on how to receive discounted Higher Hangers, along with some other surprises.</p>
 
-		<p class="lead thank-you">Until then, Like the Higher Hangers Facebook page. Thanks!</p>
+		<p class="lead thank-you">Until then, Share Higher Hangers on Facebook. Thanks!</p>
 
 	</div>
 
@@ -28,7 +28,7 @@ fb-pixel-lead: yes
 
 <div class="row">
 	<div class="col-md-2 col-md-offset-5">  
-		<div class="fb-like" data-href="https://www.facebook.com/higherhangers" data-layout="standard" data-action="like" data-show-faces="true" data-share="false"></div>
+		<div class="fb-share-button" data-href="http://www.higherhangers.com" data-layout="box_count"></div>
  	</div>   
  </div>
 
