@@ -30,7 +30,7 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
     <meta property="og:type"          content="website" /> 
 	<meta property="og:title"         content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" /> 
 	<meta property="og:site_name"     content="{{ site.title }}"/> 
-	<meta property="og:url"           content="{% if page.url == '/index.html' %}http://www.higherhangers.com{% else %}{{ site.url }}{{ page.url }}{% endif %}" /> 
+	<meta property="og:url"           content="{{ page.redirect }}" /> 
 	<meta property="og:description"   content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 	<meta property="og:image"         content="{% if page.img %}{{ site.url }}/img/{{ page.img }}{% else %}{{ site.url }}/img/{{ site.fb-img }}{% endif %}" /> 
 	<meta property="fb:app_id"        content="126092547501452" />
