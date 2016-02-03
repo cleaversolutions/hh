@@ -442,3 +442,34 @@ img.img-responsive.nav-logo {
 	margin-top: 10px
 	}
 	
+.alert-danger {
+	text-align: center;
+	/*background-color: #E52161;*/
+	background-color: #0F2105;
+}
+
+.alert-danger h4 {
+	color: #fff;
+}
+
+a.learn-more-link {
+	text-decoration: underline;
+	font-size: 14px;
+	color: #5bc0de;
+}
+
+a:hover.learn-more-link {
+	text-decoration: none;
+	color: #31b0d5;
+}
+
+.alert {
+	border-radius: 0;
+	padding: 10px 0 0 0;
+	margin: 0 0 0 0;
+}
+
+body {
+    margin-top: 60px; /*Only when alert is activated*/
+}
+	

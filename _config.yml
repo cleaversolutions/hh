@@ -43,6 +43,8 @@ social:
 opt-in-text: Yes! I Want Higher Hangers
 get-text: Get Higher Hangers
 get-url: /form.html
+alert: yes #UNCOMMENT BODY MARGIN AT BOTTOM OF CSS WHEN ACTIVE
+kickstarter-url: http://kickstarter.com
 
 collections:
   - text_files
