@@ -1,7 +1,7 @@
-## Hi, I’m Drew Cleaver
-Founder & Inventor of Higher Hangers
+## Hi, I’m <span itemprop="name">Drew Cleaver</span>
+<span itemprop="jobTitle">Founder & Inventor of Higher Hangers</span>
 
-## I Came Up With Higher Hangers In My Dorm Room
+## I Came Up With <span itemprop="brand">Higher Hangers</span> In My Dorm Room
 
 Two months into my freshman year of college, I was trying to make my new home more organized and peaceful. My pre-depression built dorm (est. 1921) was about 139 square feet (shared with a roommate), so you can imagine my closet situation. It was crammed full with clothes squished between the upper and lower closet rods. The top clothes were overflowing onto the lower clothes, and the bottom row wrinkled up on the floor with no space for shoes or anything. 
 
