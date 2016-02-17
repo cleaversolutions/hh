@@ -19,6 +19,6 @@ Redesigning the clothes hanger this way seemed like such an obvious solution to 
 
 My senior year, my team and I won the undergrad D.W. Reynold’s Tri-State Business plan competition with Higher Hangers and were awarded nearly $40,000 in cash. In 2010 I won a product search competition hosted by a major housewares retailer, but they didn’t bring Higher Hangers to market because it was too risky to invest a few hundred thousand dollars in manufacturing tooling for a product that hadn’t changed in over 100 years (lol). After 6 years of technical sales in oil & gas, I left the corporate world to bring Higher Hangers to market myself. 
 
-I attended high school in Houston, TX and graduated from John Brown University in 2009 with a B.S. in Business Management. I have lived in Denver, Colorado since 2012 and enjoy cycling, skiing, hiking, fishing, and motorsport. 
+I attended high school in Houston, TX and graduated from <span itemprop="alumniOf">John Brown University</span> in 2009 with a B.S. in Business Management. I have lived in Denver, Colorado since 2012 and enjoy cycling, skiing, hiking, fishing, and motorsport. 
 
 Please support this project of mine to help bring Higher Hangers to market. Share our story. Sign up for the newsletter (chance for freebies), and be first to know when we are ready for sale!
