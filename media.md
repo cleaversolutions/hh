@@ -330,6 +330,9 @@ Multiple sizes of all images are included in the media kit folder, downloadable 
     </a>
   </div>
   <div class="col-md-4">
+  <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/funded_on_kickstarter/funded_on_kickstarter_04_680x356.png" alt="Pulpit Rock">
+    </a>
   </div>
   <div class="col-md-4">
   </div>
@@ -388,6 +391,26 @@ Embed code: `<iframe width="560" height="315" src="https://www.youtube.com/embed
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
 
+
+### 640 x 360 Video
+
+Embed code: `<iframe width="640" height="360" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+### 853 x 480 Video
+
+Embed code: `<iframe width="853" height="480" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+### 1280 x 720 Video
+
+Embed code: `<iframe width="1280" height="720" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+[Back to Table of Contents](#table)
 
 
 
