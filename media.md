@@ -1,6 +1,6 @@
 ---
 layout: media
-title: Media Kit
+title: Higher Hangers Media Kit
 description: How Drew Cleaver invented space-saving Higher Hangers in his dorm room as a college freshman. Make more room in your closet with Higher Hangers.
 weight: 2
 index: yes
@@ -14,39 +14,52 @@ You may use this page to help you write media articles pertaining to Higher Hang
 
 ---
 
-<h2 id="table">Media Kit Table of Contents</h2>
+<a name="table"></a>
 
-- [Links & Shareable Media](#links)
+## Media Kit Table of Contents
+
+- [Quick Facts & Stats](#facts)
 - [Product Description](#product)
 - [Inventor Bio](#bio)
 - [Press Release](#press)
+- [Testimonials](#testimonials)
 - [Sample Interview Questions](#interview)
 - [Contact Information](#contact)
+- [Links & Shareable Media](#links)
 - [Included Images](#images)
 - [Kickstarter Video and Embed Code](#video)
+- [16 Second Youtube Explanation Video](#youtube)
 
 ---
 
-<h2 id="links">Links & Shareable Media</h2>
+<a name="facts"></a>
 
-- Short Kickstarter Link: `http://kck.st/1SdfGfN`
-- Full Kickstarter Link: `https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re`
-- [Click Here to Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re)
-    - Raw URL: `https://www.facebook.com/sharer/sharer.php?u=https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re`
-- [Click Here to Tweet on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20Higher%20Hangers%3A%20Space-Saving%20Closet%20Organization%20Reinvented%20by%20Drew%20Cleaver%20on%20%40Kickstarter&url=http%3A%2F%2Fkck.st%2F21Ei2GM&original_referer=https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re)
-    - Raw URL: `https://twitter.com/intent/tweet?text=Check%20out%20Higher%20Hangers%3A%20Space-Saving%20Closet%20Organization%20Reinvented%20by%20Drew%20Cleaver%20on%20%40Kickstarter&url=http%3A%2F%2Fkck.st%2F21Ei2GM&original_referer=https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re`
-- [Click Here to Pin on Pinterest](https://pinterest.com/pin/create/button/?url=http%3A//kck.st/1SdfGfN&media=http%3A//www.higherhangers.com/img/funded_on_kickstarter.png&description=Now%20on%20Kickstarter%3A%20Genius%20hanger%20saves%20vertical%20space%20in%20your%20closet.%20Creates%20enough%20new%20space%20for%2048%20more%20shoe%20boxes!)
-    - Raw URL: `https://pinterest.com/pin/create/button/?url=http%3A//kck.st/1SdfGfN&media=http%3A//www.higherhangers.com/img/funded_on_kickstarter.png&description=Now%20on%20Kickstarter%3A%20Genius%20hanger%20saves%20vertical%20space%20in%20your%20closet.%20Creates%20enough%20new%20space%20for%2048%20more%20shoe%20boxes!`
-        
-Click here to follow on Instagram
-Youtube Video - 16 Sec Illustration with Commentary:
-https://www.youtube.com/watch?v=qW0g6n4ogtw 
+## Quick Facts & Stats
 
-[Back to Table of Contents](#table)
+Higher Hangers
 
+- Higher Hangers are the first vertical space-saving clothes hanger ever
+- Invented by college student Drew Cleaver in his dorm room to save space
+- U.S. Patent Number 7,404,503 awarded on first application
+- Higher Hangers save 4+ vertical inches over traditional clothes hangers
+- Higher Hangers will will create enough new space in an average master bedroom closet for:
+    - 11 cubic feet
+    - 7 carry-on size suitcases
+    - 48 shoe boxes
+- [www.HigherHangers.com](http://www.higherhangers.com)
+
+Kickstarter
+
+- Kickstarter Campaign Link: [http://kck.st/1SdfGfN](http://kck.st/1SdfGfN)
+- Campaign runs through March 31
+- 100% Funded ($40,000) in three days
+- Delivery expected within 90 days of campaign close
+    
 ---
 
-<h2 id="product">Product Description - Higher Hangers</h2>
+<a name="product"></a>
+
+## Product Description - Higher Hangers
 
 **Short**
 
@@ -60,7 +73,9 @@ Higher Hangers are clothes hangers reinvented. Since 1869, hangers have had a de
 
 ---
 
-<h2 id="bio">Inventor Bio - Drew Cleaver</h2>
+<a name="bio"></a>
+
+## Inventor Bio - Drew Cleaver
 
 **Short**
 
@@ -78,7 +93,9 @@ Drew attended Cypress Creek High School in Houston, TX and graduated from John B
 
 ---
 
-<h2 id="press">Press Release</h2> 
+<a name="press"></a>
+
+## Press Release
 
 **Suggested Headlines:**
 
@@ -108,7 +125,111 @@ Least Important info, company info, ### ending
 
 ---
 
-<h2 id="images">Included Images</h2>
+<a name="testimonials"></a>
+
+## Testimonials
+
+### Product Testers
+
+When I first discovered Higher Hangers I thought to myself, "Why on earth would anyone buy hangers with the old design?" It's a logical product that offers a quick solution to maximizing closet space. In NYC, where my clients' closets are typically very tight, this is a great product for them to increase shoe storage - something all women want!
+
+Samantha Brown, Professional Stylist, SamanthaBrownStyle.com
+
+As a women's clothing and accessories boutique owner, I'm always searching for hangers that won't damage clothing. Not only are Higher Hangers space-saving, the gentle shoulder design eliminates damage to lightweight knits, sweaters, and cotton garments. I'm now a Higher Hangers customer and will be recommending all of my customers to make the switch.
+
+Elizabeth, Boutique Owner, SouthernHippie.com
+
+We cram two adults, a baby, and a toddler in to a 204 sqft Tiny House! When it comes to space, we think in inches rather than feet, and every single inch matters! Higher Hangers has changed my closet! With the added space we are able to fit more in our teeny tiny closet! I will be forever grateful to Higher Hangers for the added space that we didn't know wasn't there! This design will become the new normal, I'm sure of it.
+
+Baylie Carlson, TinyHouseGrowingFamily.com
+
+As a professional organizer, space planning is a large part of my business. Clients hire me not only to organize, but also to make the most of the space available to them. I can't believe something as simple as Higher Hangers’ design could help me provide more useable space in a closet. Here in San Francisco, closet space is at a premium. Higher Hangers give me the ability to organize and create more space for shelving or shoe storage.
+
+Samantha, Professional Organizer, SimplyOrganized.me
+
+### Pre-Kickstarter Fan Comments
+
+Can't hang my husband's clothes in the house we moved into until we are able to purchase enough Higher Hangers!! - Pam Halaschak
+
+I work with tiny house builders and enthusiasts to help minimalize their stuff--these fit perfectly! (no pun intended...) - Karin Parramore
+
+We would love to see how much space we can save using these. Every inch makes a difference!- Anna Romero
+
+I have been looking for this type of product, specifically for pants--I use kid's hangers because they are higher, but they're not always wide enough. Seriously, every time I am out shopping I look for something like this! - Monica Premo
+
+[Back to Table of Contents](#table)
+
+---
+
+<a name="interview"></a>
+
+## Sample Interview Questions
+
+- How did you come up with this idea? 
+- How do Higher Hangers work compared to normal hangers?
+- Is there any issue with collared shirts? 
+- What style/material hangers are you offering? 
+- What’s been the most difficult part of bringing Higher Hangers to market? 
+- Is there any compromise in using Higher Hangers versus traditional hangers?
+- Have you had any discussions about licensing deals? 
+- Have you thought about going on Shark Tank?  
+
+[Back to Table of Contents](#table)
+
+---
+
+<a name="contact"></a>
+
+## Contact Information
+
+Drew Cleaver, drew@higherhangers.com
+
+Mailing Address: <br />
+Higher Hangers	<br />
+PO Box 11713<br />
+Denver, CO 80211<br />
+(720) 588-8825
+
+- Instagram: @drew.cleaver, @higherhangers
+- www.linkedin.com/in/drewcleaver
+- www.higherhangers.com
+- www.facebook.com/higherhangers
+- www.pinterest.com/higherhangers
+- Kickstarter campaign short URL
+- http://kck.st/1SdfGfN
+- Kickstarter campaign long URL
+- https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re
+
+[Back to Table of Contents](#table)
+
+
+---
+
+<a name="links"></a>
+
+## Links & Shareable Media
+
+- Short Kickstarter Link: `http://kck.st/1SdfGfN`
+- Full Kickstarter Link: `https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re`
+- [Click Here to Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re)
+    - Raw URL: `https://www.facebook.com/sharer/sharer.php?u=https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re`
+- [Click Here to Tweet on Twitter](https://twitter.com/home?status=100%25%20Funded%20on%20Kickstarter%20in%203%20Days!%20Higher%20Hangers%20are%20the%20first%20vertical-space%20saving%20hangers%20EVER!%20http%3A//kck.st/1SdfGfN)
+    - Raw URL: `https://twitter.com/home?status=100%25%20Funded%20on%20Kickstarter%20in%203%20Days!%20Higher%20Hangers%20are%20the%20first%20vertical-space%20saving%20hangers%20EVER!%20http%3A//kck.st/1SdfGfN`
+- [Click Here to Pin on Pinterest](https://pinterest.com/pin/create/button/?url=http%3A//kck.st/1SdfGfN&media=http%3A//www.higherhangers.com/img/funded_on_kickstarter.png&description=Now%20on%20Kickstarter%3A%20Genius%20hanger%20saves%20vertical%20space%20in%20your%20closet.%20Creates%20enough%20new%20space%20for%2048%20more%20shoe%20boxes!)
+    - Raw URL: `https://pinterest.com/pin/create/button/?url=http%3A//kck.st/1SdfGfN&media=http%3A//www.higherhangers.com/img/funded_on_kickstarter.png&description=Now%20on%20Kickstarter%3A%20Genius%20hanger%20saves%20vertical%20space%20in%20your%20closet.%20Creates%20enough%20new%20space%20for%2048%20more%20shoe%20boxes!`
+        
+Click here to follow on Instagram
+Youtube Video - 16 Sec Illustration with Commentary:
+https://www.youtube.com/watch?v=qW0g6n4ogtw 
+
+[Back to Table of Contents](#table)
+
+
+---
+
+<a name="images"></a>
+
+## Included Images
 
 Multiple sizes of all images are included in the media kit folder, downloadable at [https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0](https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0)
 
@@ -216,81 +337,12 @@ Multiple sizes of all images are included in the media kit folder, downloadable 
 
 [Back to Table of Contents](#table)
 
----
-
-<h2 id="testimonials">Testimonials</h2>
-
-### Product Testers
-
-When I first discovered Higher Hangers I thought to myself, "Why on earth would anyone buy hangers with the old design?" It's a logical product that offers a quick solution to maximizing closet space. In NYC, where my clients' closets are typically very tight, this is a great product for them to increase shoe storage - something all women want!
-Samantha Brown, Professional Stylist, SamanthaBrownStyle.com
-
-As a women's clothing and accessories boutique owner, I'm always searching for hangers that won't damage clothing. Not only are Higher Hangers space-saving, the gentle shoulder design eliminates damage to lightweight knits, sweaters, and cotton garments. I'm now a Higher Hangers customer and will be recommending all of my customers to make the switch.
-Elizabeth, Boutique Owner, SouthernHippie.com
-
-We cram two adults, a baby, and a toddler in to a 204 sqft Tiny House! When it comes to space, we think in inches rather than feet, and every single inch matters! Higher Hangers has changed my closet! With the added space we are able to fit more in our teeny tiny closet! I will be forever grateful to Higher Hangers for the added space that we didn't know wasn't there! This design will become the new normal, I'm sure of it.
-Baylie Carlson, TinyHouseGrowingFamily.com
-
-As a professional organizer, space planning is a large part of my business. Clients hire me not only to organize, but also to make the most of the space available to them. I can't believe something as simple as Higher Hangers’ design could help me provide more useable space in a closet. Here in San Francisco, closet space is at a premium. Higher Hangers give me the ability to organize and create more space for shelving or shoe storage.
-Samantha, Professional Organizer, SimplyOrganized.me
-
-### Pre-Kickstarter Fan Comments
-
-Can't hang my husband's clothes in the house we moved into until we are able to purchase enough Higher Hangers!!
-Pam Halaschak
-
-I work with tiny house builders and enthusiasts to help minimalize their stuff--these fit perfectly! (no pun intended...)
-Karin Parramore
-
-We would love to see how much space we can save using these. Every inch makes a difference!
-Anna Romero
-
-I have been looking for this type of product, specifically for pants--I use kid's hangers because they are higher, but they're not always wide enough. Seriously, every time I am out shopping I look for something like this!
-Monica Premo
-
-[Back to Table of Contents](#table)
 
 ---
 
-<h2 id="interview">Sample Interview Questions</h2>
+<a name="video"></a>
 
-- How did you come up with this idea? 
-- How do Higher Hangers work compared to normal hangers?
-- Is there any issue with collared shirts? 
-- What style/material hangers are you offering? 
-- What’s been the most difficult part of bringing Higher Hangers to market? 
-- Is there any compromise in using Higher Hangers versus traditional hangers?
-- Have you had any discussions about licensing deals? 
-- Have you thought about going on Shark Tank?  
-
-[Back to Table of Contents](#table)
-
----
-
-<h2 id="contact">Contact Information</h2>
-Drew Cleaver
-drew@higherhangers.com
-Mailing Address:
-Higher Hangers	
-PO Box 11713
-Denver, CO 80211
-(720) 588-8825
-Instagram: @drew.cleaver, @higherhangers
-www.linkedin.com/in/drewcleaver
-www.higherhangers.com
-www.facebook.com/higherhangers
-www.pinterest.com/higherhangers
-Kickstarter campaign short URL
-http://kck.st/1SdfGfN
-Kickstarter campaign long URL
-https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re
-
-[Back to Table of Contents](#table)
-
----
-
-
-<h2 id="video">Kickstarter Video & Embed Code</h2>
+## Kickstarter Video & Embed Code
 
 ### 480 x 360 Video & Code
 
@@ -321,6 +373,22 @@ Embed Code:
 <iframe width="800" height="600" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>
 
 [Back to Table of Contents](#table)
+
+---
+
+<a name="youtube"></a>
+
+## 16 Second Youtube Explanation Video
+
+Youtube link: [https://www.youtube.com/watch?v=qW0g6n4ogtw](https://www.youtube.com/watch?v=qW0g6n4ogtw ) 
+
+### 560 x 315 Video
+
+Embed code: `<iframe width="560" height="315" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
 
 
 
