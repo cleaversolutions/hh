@@ -18,17 +18,45 @@ You may use this page to help you write media articles pertaining to Higher Hang
 
 ## Media Kit Table of Contents
 
-- [Quick Facts & Stats](#facts)
-- [Product Description](#product)
-- [Inventor Bio](#bio)
-- [Press Release](#press)
-- [Testimonials](#testimonials)
-- [Sample Interview Questions](#interview)
-- [Contact Information](#contact)
-- [Links & Shareable Media](#links)
-- [Included Images](#images)
-- [Kickstarter Video and Embed Code](#video)
-- [16 Second Youtube Explanation Video](#youtube)
+<div class="list-group">
+  <a href="#contact2" class="list-group-item">Contact Information</a>
+  <a href="#facts" class="list-group-item">Quick Facts & Stats</a>
+  <a href="#product" class="list-group-item">Product Description</a>
+  <a href="#bio" class="list-group-item">Inventor Bio</a>
+  <a href="#press" class="list-group-item">Press Release</a>
+  <a href="#testimonials" class="list-group-item">Testimonials</a>
+  <a href="#interview" class="list-group-item">Sample Interview Questions</a>
+  <a href="#links" class="list-group-item">Links & Shareable Media</a>
+  <a href="#images" class="list-group-item">Included Images</a>
+  <a href="#video" class="list-group-item">Kickstarter Video and Embed Code</a>
+  <a href="#youtube" class="list-group-item">16 Second Illustration Video with Commentary</a>
+</div>
+
+
+---
+
+<a name="contact2"></a>
+
+## Contact Information
+
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-envelope"></i>Drew Cleaver, drew@higherhangers.com</li>
+  <li><i class="fa-li fa fa-laptop"></i><a href="http://www.higherhangers.com">www.HigherHangers.com</a></li>
+  <li><i class="fa-li fa fa-link"></i>Kickstarter: <a href="http://kck.st/1SdfGfN">http://kck.st/1SdfGfN</a></li>
+  <li><i class="fa-li fa fa-home"></i>Higher Hangers	<br />
+PO Box 11713<br />
+Denver, CO 80211<br /></li>
+  <li><i class="fa-li fa fa-phone"></i>(720) 588-8825</li>
+  <li><i class="fa-li fa fa-facebook"></i>Facebook: <a href="http://www.linkedin.com/in/drewcleaver">facebook.com/higherhangers</a></li>
+  <li><i class="fa-li fa fa-instagram"></i>Instagram: <a href="https://www.instagram.com/drew.cleaver/">@drew.cleaver</a>, <a href="https://www.instagram.com/higherhangers/">@higherhangers</a></li>
+  <li><i class="fa-li fa fa-linkedin"></i>LinkedIn: <a href="http://www.linkedin.com/in/drewcleaver">linkedin.com/in/drewcleaver</a></li>
+  <li><i class="fa-li fa fa-pinterest"></i>Pinterest: <a href="http://www.pinterest.com/higherhangersr">pinterest.com/higherhangers</a></li>
+  <li><i class="fa-li fa fa-skype"></i>Skype: drew.cleaver</li>
+
+</ul>
+
+
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 ---
 
@@ -51,10 +79,13 @@ Higher Hangers
 Kickstarter
 
 - Kickstarter Campaign Link: [http://kck.st/1SdfGfN](http://kck.st/1SdfGfN)
+- **Limited Quanities up to 50% off retail price available through Kickstarter campaign**
 - Campaign runs through March 31
 - 100% Funded ($40,000) in three days
 - Delivery expected within 90 days of campaign close
-    
+
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
+
 ---
 
 <a name="product"></a>
@@ -63,13 +94,13 @@ Kickstarter
 
 **Short**
 
-Higher Hangers are clothes hangers reinvented - creating 48 shoeboxes of new space in an average closet. All you do is replace your clothes hangers with Higher Hangers. The patented space-saving geometry increases closet space 100% of the time, and works with all clothing styles including collared shirts.
+Higher Hanger are the first vertical-space-saving hangers ever. Create 11 cubic feet, 7 carry-on bags, or 48 shoeboxes of new space with Higher Hangers. All you do is replace your clothes hangers with Higher Hangers. The patented space-saving geometry increases closet space 100% of the time, and works with all clothing styles including collared shirts.
 
 **Long**
 
-Higher Hangers are clothes hangers reinvented. Since 1869, hangers have had a design flaw that wastes space. We’ve patented a space saving geometry that creates room for 48 shoe boxes in an average closet. All you do is replace your hangers with Higher Hangers. They work by lowering the hanger hook, which raises clothes higher, creating new space underneath. The design maximizes efficiency while retaining function with all styles of clothing, including collared shirts.
+Higher Hangers are clothes hangers reinvented. Since 1869, hangers have had a design flaw that wastes space. Higher Hangers have a patented space-saving geometry that creates room for 48 shoe boxes in an average closet. All you do is replace your hangers with Higher Hangers. They work by lowering the hanger hook, which raises clothes higher, creating new space underneath. The design maximizes efficiency while retaining function with all styles of clothing, including collared shirts.
 
-[Back to Table of Contents](#table)
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 ---
 
@@ -89,7 +120,7 @@ In 2010 he won a product search competition hosted by a major housewares retaile
 
 Drew attended Cypress Creek High School in Houston, TX and graduated from John Brown University in 2009 with a B.S. in Business Management. He has lived in Denver, Colorado since 2012 and enjoys cycling, skiing, and motorsport. 
 
-[Back to Table of Contents](#table)
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 ---
 
@@ -99,29 +130,31 @@ Drew attended Cypress Creek High School in Houston, TX and graduated from John B
 
 **Suggested Headlines:**
 
-- **Clothes hangers flawed since 1869. New design saves massive space.**
-- **Everyone needs these new space-saving clothes hangers.** 
-- **We all need these new space-saving clothes hangers in our closet.**
+- **Higher Hangers: Space-Saving Closet Organization Reinvented**
+- **People Want Closet Space So Much They Pledged $40,000 in Three Days for This Kickstarter**
+- **Higher Hangers Create Enough Space in Your Closet for 48 More Shoe Boxes**
+- **Brilliant Hanger Creates Way More Space in Your Closet**
+- **Clothes Hangers Flawed Since 1869. New Design Saves Massive Space.**
+- **Everyone Needs These New Space-Saving Clothes Hangers.** 
+- **We All Need These New Space-Saving Clothes Hangers In Our Closet.**
 
 
-Have you ever looked at your closet with great despair, only wishing you had a bigger one? Drew Cleaver did the same thing when he moved into his first (pre-war) college dorm room. With no room alterations allowed, Drew had to find a way to make new space out of nothing. 
 
-After gazing at his laughable closet allotment, he noticed something odd. There was a huge gap between his garments and the closet rod. Look in your own closet - see how much of the clothes hangers you can see? 
+Have you ever looked at your closet and wished it was bigger? Drew Cleaver did the same thing when he moved into his first college dorm room (built before World War II) . With no room alterations allowed, Drew had to find a way to make new space out of nothing. 
 
-That’s all wasted space. At that point, Drew invented Higher Hangers. Higher Hangers eliminate all that wasted space by bringing the hanger hook closer to the garment, raising the clothes higher, which creates about 48 shoeboxes of new space in an average closet.
+After gazing at his tiny closet, he noticed something odd: his traditional clothes hangers left a large gap between his garments and the closet rod. "I thought to myself, 'That’s all wasted space,'" said Cleaver. At that point, he invented Higher Hangers. Higher Hangers eliminate all that wasted space by bringing the hanger hook closer to the garment, raising the clothes higher, which creates about 11 cubic feet of new space in an average closet; that's enough for forty-eight shoe boxes or seven carry-on pieces of luggage.
 
-This is not a contraption that you add to your existing toolbox of organizational accessories - Higher Hangers are clothes hangers reinvented. All you do is replace your existing hangers with Higher Hangers. The design maximizes efficiency while retaining function with all styles of clothing, including collared shirts. There is no sacrifice with this amazingly simple yet brilliant “better mousetrap” invention. 
+"The most important thing about Higher Hangers is that they are not a contraption or gimmick that you add to your existing toolbox of organizational accessories," Cleaver says. Higher Hangers are clothes hangers reinvented. They are meant as a direct replacement for existing traditional clothes hangers. The design maximizes efficiency while retaining function with all styles of clothing, including collared shirts. There is no sacrifice with this amazingly simple yet brilliant “better mousetrap” invention. 
 
-A few years ago, Higher Hangers won an innovative dorm room product search competition hosted by a major housewares retailer. Unfortunately, the retailer underestimated the amount of investment required to bring Higher Hangers to market the way they wanted to, so they ended up returning all the rights back to Drew. 
+A few years ago, Higher Hangers won an innovative dorm room product search competition hosted by a major housewares retailer. Unfortunately, the retailer underestimated the amount of investment required to bring Higher Hangers to market the way they wanted to, so they ended up returning all the rights back to Cleaver. 
 
-Now with the advent of crowdfunding, Drew is launching Higher Hangers for the first time on Kickstarter March 1st with an anticipated delivery within 90 days of the campaign’s finish. 
+Now, he has launched a Kickstarter campaign to raise the money needed to bring Higher Hangers to market. Within three days, Cleaver raised the $40,000 needed to fund the first manufacturing order of Higher Hangers. The campaign lasts until until March 31, and customers can pre-order Higher Hangers at up to 50% off retail prices through their Kickstarter page, http://kck.st/1SdfGfN. You can also find out more on their website, www.HigherHangers.com.
 
+<p>###</p>
 
-Who What When Where Why How?
-Builds or tells your news
-Least Important info, company info, ### ending
+*[Approximately 330 words]*
 
-[Back to Table of Contents](#table)
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 ---
 
@@ -157,7 +190,7 @@ We would love to see how much space we can save using these. Every inch makes a 
 
 I have been looking for this type of product, specifically for pants--I use kid's hangers because they are higher, but they're not always wide enough. Seriously, every time I am out shopping I look for something like this! - Monica Premo
 
-[Back to Table of Contents](#table)
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 ---
 
@@ -174,34 +207,7 @@ I have been looking for this type of product, specifically for pants--I use kid'
 - Have you had any discussions about licensing deals? 
 - Have you thought about going on Shark Tank?  
 
-[Back to Table of Contents](#table)
-
----
-
-<a name="contact"></a>
-
-## Contact Information
-
-Drew Cleaver, drew@higherhangers.com
-
-Mailing Address: <br />
-Higher Hangers	<br />
-PO Box 11713<br />
-Denver, CO 80211<br />
-(720) 588-8825
-
-- Instagram: @drew.cleaver, @higherhangers
-- www.linkedin.com/in/drewcleaver
-- www.higherhangers.com
-- www.facebook.com/higherhangers
-- www.pinterest.com/higherhangers
-- Kickstarter campaign short URL
-- http://kck.st/1SdfGfN
-- Kickstarter campaign long URL
-- https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re
-
-[Back to Table of Contents](#table)
-
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 ---
 
@@ -218,12 +224,9 @@ Denver, CO 80211<br />
 - [Click Here to Pin on Pinterest](https://pinterest.com/pin/create/button/?url=http%3A//kck.st/1SdfGfN&media=http%3A//www.higherhangers.com/img/funded_on_kickstarter.png&description=Now%20on%20Kickstarter%3A%20Genius%20hanger%20saves%20vertical%20space%20in%20your%20closet.%20Creates%20enough%20new%20space%20for%2048%20more%20shoe%20boxes!)
     - Raw URL: `https://pinterest.com/pin/create/button/?url=http%3A//kck.st/1SdfGfN&media=http%3A//www.higherhangers.com/img/funded_on_kickstarter.png&description=Now%20on%20Kickstarter%3A%20Genius%20hanger%20saves%20vertical%20space%20in%20your%20closet.%20Creates%20enough%20new%20space%20for%2048%20more%20shoe%20boxes!`
         
-Click here to follow on Instagram
-Youtube Video - 16 Sec Illustration with Commentary:
-https://www.youtube.com/watch?v=qW0g6n4ogtw 
+Click here to follow on Instagram 
 
-[Back to Table of Contents](#table)
-
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 ---
 
@@ -338,8 +341,7 @@ Multiple sizes of all images are included in the media kit folder, downloadable 
   </div>
 </div>
 
-[Back to Table of Contents](#table)
-
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 ---
 
@@ -375,13 +377,13 @@ Embed Code:
 
 <iframe width="800" height="600" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>
 
-[Back to Table of Contents](#table)
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 ---
 
 <a name="youtube"></a>
 
-## 16 Second Youtube Explanation Video
+## 16 Second Illustration Video with Commentary
 
 Youtube link: [https://www.youtube.com/watch?v=qW0g6n4ogtw](https://www.youtube.com/watch?v=qW0g6n4ogtw ) 
 
@@ -391,6 +393,7 @@ Embed code: `<iframe width="560" height="315" src="https://www.youtube.com/embed
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
 
+---
 
 ### 640 x 360 Video
 
@@ -398,11 +401,15 @@ Embed code: `<iframe width="640" height="360" src="https://www.youtube.com/embed
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
 
+---
+
 ### 853 x 480 Video
 
 Embed code: `<iframe width="853" height="480" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+---
 
 ### 1280 x 720 Video
 
@@ -410,8 +417,7 @@ Embed code: `<iframe width="1280" height="720" src="https://www.youtube.com/embe
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
 
-[Back to Table of Contents](#table)
-
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 
 
