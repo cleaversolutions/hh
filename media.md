@@ -6,7 +6,7 @@ weight: 2
 index: yes
 ---
 
-<a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="btn btn-primary btn-lg" role="button"><i class="fa fa-cloud-download"></i>  Click Here to Download Entire Media Kit</a>
+<a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="btn btn-primary btn-lg" role="button"><i class="fa fa-cloud-download"></i>  Click Here to Download Entire Media Kit (13MB)</a>
 
 You may use this page to help you write media articles pertaining to Higher Hangers. All contents of this page, including all text and image files, can be downloaded in one folder using this link: [https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0](https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0)
 
@@ -47,10 +47,10 @@ You may use this page to help you write media articles pertaining to Higher Hang
 PO Box 11713<br />
 Denver, CO 80211<br /></li>
   <li><i class="fa-li fa fa-phone"></i>(720) 588-8825</li>
-  <li><i class="fa-li fa fa-facebook"></i>Facebook: <a href="http://www.linkedin.com/in/drewcleaver">facebook.com/higherhangers</a></li>
+  <li><i class="fa-li fa fa-facebook"></i>Facebook: <a href="http://www.facebook.com/higherhangers">facebook.com/higherhangers</a></li>
   <li><i class="fa-li fa fa-instagram"></i>Instagram: <a href="https://www.instagram.com/drew.cleaver/">@drew.cleaver</a>, <a href="https://www.instagram.com/higherhangers/">@higherhangers</a></li>
   <li><i class="fa-li fa fa-linkedin"></i>LinkedIn: <a href="http://www.linkedin.com/in/drewcleaver">linkedin.com/in/drewcleaver</a></li>
-  <li><i class="fa-li fa fa-pinterest"></i>Pinterest: <a href="http://www.pinterest.com/higherhangersr">pinterest.com/higherhangers</a></li>
+  <li><i class="fa-li fa fa-pinterest"></i>Pinterest: <a href="http://www.pinterest.com/higherhangers">pinterest.com/higherhangers</a></li>
   <li><i class="fa-li fa fa-skype"></i>Skype: drew.cleaver</li>
 
 </ul>
@@ -140,7 +140,7 @@ Drew attended Cypress Creek High School in Houston, TX and graduated from John B
 
 
 
-Have you ever looked at your closet and wished it was bigger? Drew Cleaver did the same thing when he moved into his first college dorm room (built before World War II) . With no room alterations allowed, Drew had to find a way to make new space out of nothing. 
+Have you ever looked at your closet and wished it was bigger? Drew Cleaver did the same thing when he moved into his first college dorm room (built before World War II). With no room alterations allowed, Drew had to find a way to make new space out of nothing. 
 
 After gazing at his tiny closet, he noticed something odd: his traditional clothes hangers left a large gap between his garments and the closet rod. "I thought to myself, 'That’s all wasted space,'" said Cleaver. At that point, he invented Higher Hangers. Higher Hangers eliminate all that wasted space by bringing the hanger hook closer to the garment, raising the clothes higher, which creates about 11 cubic feet of new space in an average closet; that's enough for forty-eight shoe boxes or seven carry-on pieces of luggage.
 
