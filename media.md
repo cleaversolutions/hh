@@ -199,7 +199,7 @@ FOR IMMEDIATE RELEASE:
 Suggested Headlines:
 
 - **These Hangers Are Changing Custom Closet Design**
-- **New Clothes Hanger Creates More Space In Your Closet**
+- **New Clothes Hangers Create More Space In Your Closet**
 
 Denver, Colorado, March 9, 2016 - A new clothes hanger design claims to help people create enough new space in the average closet to fit an additional forty-eight shoe boxes. Named Higher Hangers, they have a patented recessed hook that raises clothes hangers four to five inches (ten to thirteen centimeters) or more compared to traditional clothes hangers. 
 
