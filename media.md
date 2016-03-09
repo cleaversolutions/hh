@@ -386,110 +386,112 @@ Multiple sizes of all images are included in the media kit folder, downloadable 
 <div class="row">
   <div class="col-md-4">
     <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/animated_gifs/higher_hangers_carry_on_luggage.gif" alt="Pulpit Rock">
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/animated_gifs/higher_hangers_closet_before_after.gif" alt="Moustiers Sainte Marie">
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/animated_gifs/higher_hangers_clothes_rod.gif" class="thumbnail" alt="Cinque Terre">
-    </a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/animated_gifs/traditional_to_higher_hangers.gif" alt="Pulpit Rock">
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/closet_before_after/closet_before_after_03_480x301.jpg" alt="Moustiers Sainte Marie">
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/collared_shirt/collared_shirt_04_680x513.jpg" class="thumbnail" alt="Cinque Terre">
-    </a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/comparison_picture/higher_hangers_comparison_04_640x335.jpg" alt="Pulpit Rock">
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/dorm_room_prototype/dorm_room_prototype_03_480x240.jpg" alt="Moustiers Sainte Marie">
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/drew_cleaver_headshot/drew_cleaver_headshot_02_250x250.jpg" class="thumbnail" alt="Cinque Terre">
-    </a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/drew_cleaver_portrait/drew_cleaver_05_480x480.jpg" alt="Pulpit Rock">
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/floor_space_savings/floor_space_savings_04_480x640.jpg" alt="Moustiers Sainte Marie">
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/hdf_product_image/higher_hangers_hdf_04_640x300.jpg" class="thumbnail" alt="Cinque Terre">
-    </a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/higher_hangers_logo/higher_hangers_logo_05_480x193.png" alt="Pulpit Rock">
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/velvet_product_image/higher_hangers_velvet_04_640x257.jpg" alt="Moustiers Sainte Marie">
-    </a>
-  </div>
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/womens_closet_comparison/female_closet_comparison_04_480x600.jpg" class="thumbnail" alt="Cinque Terre">
-    </a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-4">
-    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/womens_shirt_comparison/female_shirt_comparison_05_480x393.jpg" alt="Pulpit Rock">
+      <img src="img/media_kit/womens_shirt_comparison/female_shirt_comparison_05_480x393.jpg" alt="Female Shirt Comparison">
     </a>
   </div>
   <div class="col-md-4">
   <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/funded_on_kickstarter/funded_on_kickstarter_04_680x356.png" alt="Pulpit Rock">
+      <img src="img/media_kit/funded_on_kickstarter/funded_on_kickstarter_04_680x356.png" alt="Funded on Kickstarter">
     </a>
   </div>
   <div class="col-md-4">
   <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
-      <img src="img/media_kit/animated_gifs/shoes_before_after.gif" alt="Pulpit Rock">
+      <img src="img/media_kit/animated_gifs/shoes_before_after.gif" alt="Shoes Before & After">
     </a>  
   </div>
 </div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/animated_gifs/higher_hangers_carry_on_luggage.gif" alt="Carry On Luggage">
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/animated_gifs/higher_hangers_closet_before_after.gif" alt="Closet Before & After">
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/animated_gifs/higher_hangers_clothes_rod.gif" class="thumbnail" alt="Clothes Rod Off/On">
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/animated_gifs/traditional_to_higher_hangers.gif" alt="Traditional to Higher Hangers">
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/closet_before_after/closet_before_after_03_480x301.jpg" alt="Closet Before & After">
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/collared_shirt/collared_shirt_04_680x513.jpg" class="thumbnail" alt="Collared Shirt">
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/comparison_picture/higher_hangers_comparison_04_640x335.jpg" alt="Comparison">
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/dorm_room_prototype/dorm_room_prototype_03_480x240.jpg" alt="Dorm room prototype">
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/drew_cleaver_headshot/drew_cleaver_headshot_02_250x250.jpg" class="thumbnail" alt="Drew Cleaver Headshot">
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/drew_cleaver_portrait/drew_cleaver_05_480x480.jpg" alt="Drew Cleaver Portait">
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/floor_space_savings/floor_space_savings_04_480x640.jpg" alt="Floor Space Savings">
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/hdf_product_image/higher_hangers_hdf_04_640x300.jpg" class="thumbnail" alt="HDF Product Picture">
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/higher_hangers_logo/higher_hangers_logo_05_480x193.png" alt="Higher Hangers Logo">
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/velvet_product_image/higher_hangers_velvet_04_640x257.jpg" alt="Velvet Product Picture">
+    </a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/womens_closet_comparison/female_closet_comparison_04_480x600.jpg" class="thumbnail" alt="Female Closet Comparison">
+    </a>
+  </div>
+</div>
+
+
 
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
