@@ -2,8 +2,9 @@
 layout: media
 title: Higher Hangers Media Kit
 description: How Drew Cleaver invented space-saving Higher Hangers in his dorm room as a college freshman. Make more room in your closet with Higher Hangers.
-weight: 2
+weight: 10
 index: yes
+nav-title: Media Kit
 ---
 
 <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="btn btn-primary btn-lg" role="button"><i class="fa fa-cloud-download"></i>  Click Here to Download Entire Media Kit (13MB)</a>
@@ -23,7 +24,9 @@ You may use this page to help you write media articles pertaining to Higher Hang
   <a href="#facts" class="list-group-item">Quick Facts & Stats</a>
   <a href="#product" class="list-group-item">Product Description</a>
   <a href="#bio" class="list-group-item">Inventor Bio</a>
-  <a href="#press" class="list-group-item">Press Release</a>
+  <a href="#press" class="list-group-item">Press Release 1 - General</a>
+  <a href="#press2" class="list-group-item">Press Release 2 - Design</a>
+  <a href="#press3" class="list-group-item">Press Release 3 - Web & Blogs</a>
   <a href="#testimonials" class="list-group-item">Testimonials</a>
   <a href="#interview" class="list-group-item">Sample Interview Questions</a>
   <a href="#links" class="list-group-item">Links & Shareable Media</a>
@@ -126,23 +129,15 @@ Drew attended Cypress Creek High School in Houston, TX and graduated from John B
 
 <a name="press"></a>
 
-## Press Release
+## Press Release 1 - General
 
-**Suggested Headlines:**
+FOR IMMEDIATE RELEASE:
 
-- **Higher Hangers: Space-Saving Closet Organization Reinvented**
-- **People Want Closet Space So Much They Pledged $40,000 in Three Days for This Kickstarter**
-- **Higher Hangers Create Enough Space in Your Closet for 48 More Shoe Boxes**
-- **Brilliant Hanger Creates Way More Space in Your Closet**
-- **Clothes Hangers Flawed Since 1869. New Design Saves Massive Space.**
-- **Everyone Needs These New Space-Saving Clothes Hangers.** 
-- **We All Need These New Space-Saving Clothes Hangers In Our Closet.**
+**College Student Invents Space-Saving Clothes Hanger in Dorm Room**
 
+Denver, Colorado, March 9, 2016 - Have you ever looked at your closet and wished it was bigger? Drew Cleaver did the same thing when he moved into his first college dorm room (built before World War II). With no room alterations allowed, Drew had to find a way to make new space out of nothing. 
 
-
-Have you ever looked at your closet and wished it was bigger? Drew Cleaver did the same thing when he moved into his first college dorm room (built before World War II). With no room alterations allowed, Drew had to find a way to make new space out of nothing. 
-
-After gazing at his tiny closet, he noticed something odd: his traditional clothes hangers left a large gap between his garments and the closet rod. "I thought to myself, 'That’s all wasted space,'" said Cleaver. At that point, he invented Higher Hangers. Higher Hangers eliminate all that wasted space by bringing the hanger hook closer to the garment, raising the clothes higher, which creates about 11 cubic feet of new space in an average closet; that's enough for forty-eight shoe boxes or seven carry-on pieces of luggage.
+After gazing at his tiny closet, he noticed something odd: his traditional clothes hangers left a large gap between his garments and the closet rod. "I thought to myself, 'That’s all wasted space,'" said Cleaver. At that point, he invented Higher Hangers. Higher Hangers eliminate all that wasted space by bringing the hanger hook closer to the garment, raising the clothes higher, which creates about 11 cubic feet of new space in an average closet. That's enough for forty-eight shoe boxes or seven carry-on pieces of luggage.
 
 "The most important thing about Higher Hangers is that they are not a contraption or gimmick that you add to your existing toolbox of organizational accessories," Cleaver says. Higher Hangers are clothes hangers reinvented. They are meant as a direct replacement for existing traditional clothes hangers. The design maximizes efficiency while retaining function with all styles of clothing, including collared shirts. There is no sacrifice with this amazingly simple yet brilliant “better mousetrap” invention. 
 
@@ -150,9 +145,161 @@ A few years ago, Higher Hangers won an innovative dorm room product search compe
 
 Now, he has launched a Kickstarter campaign to raise the money needed to bring Higher Hangers to market. Within three days, Cleaver raised the $40,000 needed to fund the first manufacturing order of Higher Hangers. The campaign lasts until until March 31, and customers can pre-order Higher Hangers at up to 50% off retail prices through their Kickstarter page, http://kck.st/1SdfGfN. You can also find out more on their website, www.HigherHangers.com.
 
+Contact:<br />
+Drew Cleaver<br />
+drew@higherhangers.com<br />
+http://www.higherhangers.com<br />
+Kickstarter: http://kck.st/1SdfGfN<br />
+
+Higher Hangers	<br />
+PO Box 11713<br />
+Denver, CO 80211<br />
+(720) 588-8825<br />
+
+Skype: drew.cleaver
+
+Full media kit: http://www.higherhangers.com/media.html
+
+- Contact Information
+- Quick Facts & Stats
+- Product Description
+- Inventor Bio
+- Press Release 1
+- Press Release 2
+- Press Release 3
+- Testimonials
+- Sample Interview Questions
+- Links & Shareable Media
+- Included Images
+- Kickstarter Video and Embed Code
+- 16 Second Illustration Video with Commentary
+
 <p>###</p>
 
-*[Approximately 330 words]*
+(Approximately 330 words)
+
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
+
+---
+
+<a name="press2"></a>
+
+## Press Release 2 - Design
+
+FOR IMMEDIATE RELEASE:
+
+_New Clothes Hanger Creates More Space in Your Closet_
+
+Denver, Colorado, March 9, 2016 - A new clothes hanger design claims to help people create enough new space in the average closet to fit an additional forty-eight shoe boxes. Named Higher Hangers, they have a patented recessed hook that raises clothes hangers four to five inches (ten to thirteen centimeters) or more compared to traditional clothes hangers. 
+
+The design of the hanger is simple and elegant. Rather than a complicated contraption, Higher Hangers retain the same functionality and simplicity as traditional clothes hangers. Higher Hangers are designed to work with all styles of clothing including pants and collared shirts. 
+
+Inventor Drew Cleaver tells how he came up with the idea: "I was in my college dorm room running out of space. I looked into my closet and saw wasted space between the clothes rod and the hanging height of my clothes." Cleaver then hacked an existing plastic clothes hanger with pliers and melted it back together using a lighter to create the first prototype. 
+
+Multiple design revisions followed, each aimed at making the hanger more user-friendly. "I wanted Higher Hangers to work exactly like traditional clothes hangers, with no tradeoffs," says Cleaver. His final design yielded two styles of Higher Hangers: 
+Velvet-Flocked Slimline and Heavy Duty Engineered Wood Composite (HDF).
+
+Built with a popular nonslip coating and possessing a slim profile, velvet Higher Hangers work well with dresses, pants, strap tops, or anything that tends to fall off a plastic hanger, such as women's tops & all pants. The thin profile allows more clothes to hang side to side, helping some people to double or triple closet space laterally.
+
+The HDF Higher Hangers are one solid wood composite piece, plus the hook, making a highly durable hanger built to last. They are ideal for dress or collared shirts, t-shirts, coats, or anything with sleeves. Rather than typical wood hangers, which are two to three pieces of wood glued together, HDF Higher Hangers are made from a single piece, giving greater durability.
+
+Higher Hangers launched on Kickstarter and raised $40,000 in only three days. Potential customers can order their Higher Hangers at steep discounts, up to fifty percent off retail price, through March 31 at their Kickstarter page, http://kck.st/1SdfGfN. Learn more at www.HigherHangers.com
+
+Contact:<br />
+Drew Cleaver<br />
+drew@higherhangers.com<br />
+http://www.higherhangers.com<br />
+Kickstarter: http://kck.st/1SdfGfN<br />
+
+Higher Hangers	<br />
+PO Box 11713<br />
+Denver, CO 80211<br />
+(720) 588-8825<br />
+
+Skype: drew.cleaver
+
+Full media kit: http://www.higherhangers.com/media.html
+
+- Contact Information
+- Quick Facts & Stats
+- Product Description
+- Inventor Bio
+- Press Release 1
+- Press Release 2
+- Press Release 3
+- Testimonials
+- Sample Interview Questions
+- Links & Shareable Media
+- Included Images
+- Kickstarter Video and Embed Code
+- 16 Second Illustration Video with Commentary
+
+<p>###</p>
+
+(Approximately 370 words)
+
+
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
+
+---
+
+<a name="press3"></a>
+
+## Press Release 3 - Web & Blogs
+
+Suggested Headlines: 
+
+- **Brilliant Hanger Creates Way More Space in Your Closet**
+- **People Want Closet Space So Much They Pledged $40,000 in Three Days for This Kickstarter**
+- **Higher Hangers Create Enough Space in Your Closet for 48 More Shoe Boxes**
+- **We All Need These New Space-Saving Clothes Hangers In Our Closet**
+
+Sub: The Internet is going crazy for these space-saving clothes hangers.
+
+Denver, Colorado, March 9, 2016 - Everyone wishes their closet was bigger. We buy bins for storage, slimline hangers to fit more clothes, and install custom shelving to make the most of what little room we have in our closets. A new hanger is taking the internet by storm by saving vertical space over traditional clothes hangers. 
+
+How much space? According to the inventor, in a typical master bedroom closet, Higher Hangers will save 11 cubic feet, which is enough space for 7 pieces of carry on luggage or 48 shoe boxes. Who wouldn't want more room for 48 shoe boxes in their closet?
+
+Here's how it works: Higher Hangers have a patented design that has a recessed hook, raising the clothes hanger 4-5 inches (or more) over a traditional clothes hangers. You would think that the design wouldn't work with collared shirts, but the inventor, Drew Cleaver is a guy who wears collared shirts and made sure to take that into account. He went thought multiple design revisions to arrive at the perfect hanger. "Since inventing Higher Hangers trying to save space in my dorm room, I've been my toughest critic and made sure Higher Hangers retained the functionality of traditional clothes hangers," says Cleaver.
+
+Right now, there are two different kinds of Higher Hangers: Velvet-Flocked Slimline and Heavy Duty Engineered Wood Composite (HDF). Built with a popular nonslip coating and possessing a slim profile, velvet Higher Hangers work well with dresses, pants, strap tops, or anything that tends to fall off a plastic hanger, like most women's tops & all pants. The thin profile allows more clothes to hang side to side, allowing some people to double or triple closet space laterally.
+
+The HDF Higher Hangers are one solid wood composite piece, plus the hook, making a highly durable hanger built to last. They are ideal for dress or collared shirts, t-shirts, coats, or anything with sleeves. Rather than typical wood hangers, which are two to three pieces of wood glued together, HDF Higher Hangers are made from a single piece, giving greater durability.
+
+People love these hangers so much that they have blown past their Kickstarter goal of $40,000 in only a few days and have pledges for over $56,000 worth of Higher Hangers with 22 days left in the campaign. You can take advantage of early bird discounts up to 50% off the retail price by backing Higher Hangers on Kickstarter for as little as $25. The campaign ends March 31.
+
+Contact:<br />
+Drew Cleaver<br />
+drew@higherhangers.com<br />
+http://www.higherhangers.com<br />
+Kickstarter: http://kck.st/1SdfGfN<br />
+
+Higher Hangers	<br />
+PO Box 11713<br />
+Denver, CO 80211<br />
+(720) 588-8825<br />
+
+Skype: drew.cleaver
+
+Full media kit: http://www.higherhangers.com/media.html
+
+- Contact Information
+- Quick Facts & Stats
+- Product Description
+- Inventor Bio
+- Press Release 1
+- Press Release 2
+- Press Release 3
+- Testimonials
+- Sample Interview Questions
+- Links & Shareable Media
+- Included Images
+- Kickstarter Video and Embed Code
+- 16 Second Illustration Video with Commentary
+
+<p>###</p>
+
+(Approximately 415 words)
 
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
@@ -338,6 +485,9 @@ Multiple sizes of all images are included in the media kit folder, downloadable 
     </a>
   </div>
   <div class="col-md-4">
+  <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="thumbnail">
+      <img src="img/media_kit/animated_gifs/shoes_before_after.gif" alt="Pulpit Rock">
+    </a>  
   </div>
 </div>
 
