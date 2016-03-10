@@ -7,6 +7,20 @@ index: yes
 nav-title: Media Kit
 ---
 
+<div class="row">
+  <div class="col-sm-4">
+      <img src="img/media_kit/velvet_product_image/higher_hangers_velvet_03_800x321.jpg" class="img-responsive" alt="Velvet Higher Hangers">
+  </div>
+  <div class="col-sm-4">
+      <img src="img/media_kit/womens_shirt_comparison/female_shirt_comparison_03_800x656.jpg" class="img-responsive" alt="Comparison Photo">
+  </div>
+  <div class="col-sm-4">
+      <img src="img/media_kit/hdf_product_image/higher_hangers_hdf_03_800x375.jpg" class="img-responsive" alt="HDF Higher Hangers">
+  </div>
+</div>
+
+---
+
 <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="btn btn-primary btn-lg" role="button"><i class="fa fa-cloud-download"></i>  Click Here to Download Entire Media Kit (13MB)</a>
 
 You may use this page to help you write media articles pertaining to Higher Hangers. All contents of this page, including all text and image files, can be downloaded in one folder using this link: [https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0](https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0)
