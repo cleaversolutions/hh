@@ -145,27 +145,29 @@ Drew attended Cypress Creek High School in Houston, TX and graduated from John B
 
 ## Press Release 1 - Web & Blogs
 
-Suggested Headlines: 
+FOR IMMEDIATE RELEASE
+
+Suggested Headlines:
 
 - **These Hangers Unlock Closet Space You Didn’t Know You’re Wasting**
 - **Brilliant Hangers Create Way More Space in Your Closet**
 - **People Want Closet Space So Much They Pledged $40,000 in Three Days for This Kickstarter**
-- **Higher Hangers Create Enough Space in Your Closet for 48 More Shoe Boxes**
+- **All-New Hangers Create Enough Space in Your Closet for 48 More Shoe Boxes**
 - **We All Need These New Space-Saving Clothes Hangers In Our Closet**
 
 Sub: The Internet is going crazy for these space-saving clothes hangers.
 
-Denver, Colorado, March 9, 2016 - Everyone wishes their closet was bigger. We buy bins for storage, slimline hangers to fit more clothes, and install custom shelving to make the most of what little room we have in our closets. A new hanger is taking the internet by storm by saving vertical space over traditional clothes hangers. 
+Denver, Colorado, March 9, 2016 - Everyone wishes their closet was bigger. We buy bins for storage, slimline hangers to fit more clothes, and install custom shelving to make the most of what little room we have in our closets. A new hanger design is taking the internet by storm by saving vertical space over traditional clothes hangers.
 
-How much space? According to the inventor, in a typical master bedroom closet, Higher Hangers will save 11 cubic feet, which is enough space for 7 pieces of carry on luggage or 48 shoe boxes. Who wouldn't want more room for 48 shoe boxes in their closet?
+How much space? According to the inventor, in a typical master bedroom closet, Higher Hangers will save 11 cubic feet, which is enough space for 7 pieces of carry on luggage or 48 shoe boxes. Who wouldn’t want more room for 48 shoe boxes in their closet?
 
-Here's how it works: Higher Hangers have a patented design that has a recessed hook, raising the clothes hanger 4-5 inches (or more) over a traditional clothes hangers. You would think that the design wouldn't work with collared shirts, but the inventor, Drew Cleaver is a guy who wears collared shirts and made sure to take that into account. He went thought multiple design revisions to arrive at the perfect hanger. "Since inventing Higher Hangers trying to save space in my dorm room, I've been my toughest critic and made sure Higher Hangers retained the functionality of traditional clothes hangers," says Cleaver.
+Here’s how it works: Higher Hangers have a patented design that has a recessed hook, raising the clothes hanger 4-5 inches (or more) over a traditional clothes hangers, eliminating the wasted vertical space between the closet rod and garments. You might think that the design wouldn’t work with collared shirts, but the inventor, Drew Cleaver, is a guy who wears collared shirts and made sure to take that into account. He went thought multiple design revisions to arrive at the perfect hanger. “Since inventing Higher Hangers trying to save space in my dorm room, I’ve been my toughest critic and made sure Higher Hangers retained the utility of traditional clothes hangers,” says Cleaver.
 
-Right now, there are two different kinds of Higher Hangers: Velvet-Flocked Slimline and Heavy Duty Engineered Wood Composite (HDF). Built with a popular nonslip coating and possessing a slim profile, velvet Higher Hangers work well with dresses, pants, strap tops, or anything that tends to fall off a plastic hanger, like most women's tops & all pants. The thin profile allows more clothes to hang side to side, allowing some people to double or triple closet space laterally.
+Right now, there are two different kinds of Higher Hangers: Velvet-Flocked Slimline and Heavy Duty Engineered Wood Composite (HDF). Built with a popular nonslip coating and possessing a slim profile, velvet Higher Hangers work well with dresses, pants, strap tops, or anything that tends to fall off a plastic hanger, like most women’s tops & all pants. The thin profile allows more clothes to hang side to side, allowing some people to double or triple closet space laterally.
 
 The HDF Higher Hangers are one solid wood composite piece, plus the hook, making a highly durable hanger built to last. They are ideal for dress or collared shirts, t-shirts, coats, or anything with sleeves. Rather than typical wood hangers, which are two to three pieces of wood glued together, HDF Higher Hangers are made from a single piece, giving greater durability.
 
-People love these hangers so much that they have blown past their Kickstarter goal of $40,000 in only a few days and have pledges for over $56,000 worth of Higher Hangers with 22 days left in the campaign. You can take advantage of early bird discounts up to 50% off the retail price by backing Higher Hangers on Kickstarter for as little as $25. The campaign ends March 31.
+People love these hangers so much that they blew past their Kickstarter goal of $40,000 in the first few days. They are currently at over $56,000 pledged, 142% of goal, and over 30,000 Higher Hangers preordered from 16 countries with three weeks left in the campaign. You can take advantage of early bird discounts up to 50% off the retail price by backing Higher Hangers on Kickstarter for as little as $25. The campaign ends March 31.
 
 Contact:<br />
 Drew Cleaver<br />
