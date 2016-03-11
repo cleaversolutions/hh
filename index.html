@@ -45,77 +45,6 @@ index: yes
 	</div>
 <!-- END /.content-section-a -->
 
-<!-- BEGIN .content-section-b -->
-    <div  id="calculator" class="content-section-b">
-
-        <div class="container">
-
-            <div class="row">
-      
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Calculate Your Space Savings</h2>
-                    <div class="lead">{% include calculator.html %}</div>
-                    <p><a href="faq.html#faq-6">Click here for an explanation of the math behind the calculator</a>.</p>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/beforeandafter.jpg" alt="">
-                  <p class="caption">Look at how much new space is created compared to traditional hangers (early prototypes shown on right).</p>
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-<!-- END /.content-section-b -->
-    
-<!-- BEGIN /.content-section-a -->   
-     <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading perfect-for">Higher Hangers Are Perfect For:</h2>
-            	</div>
-            </div>
-
-<!-- BEGIN Perfect For Loop-->
-{% for text in site.perfect_for %}
-	 {% capture loop_index %}{{ forloop.index }}{% endcapture %}
-  {% capture thecycle %}{% cycle '1', '2' %}{% endcapture %}
-
-{% if thecycle == '1' %}
-    
-   <div class="row">
-            	<div class="col-md-4 col-md-offset-1 col-sm-12 lead">
-                    <div class="clearfix"></div>
-                    <h3 class="perfect-for">{{ text.title }}</h3>
-                    <p class="lead">{{ text.content }}</p>
-            	</div>        	
-    {% else %}
-
-          <div class="col-md-4 col-md-offset-2 col-sm-12 lead">
-                    <div class="clearfix"></div>
-                    <h3 class="perfect-for">{{ text.title }}</h3>
-                    <p class="lead">{{ text.content }}</p>
-            	</div>	
-            </div>
-    {% endif %}
-{% endfor %}
-<!-- END Perfect For Loop -->
-
-
-		
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-a -->
-    
 <!-- BEGIN /.content-section-b -->   
      <div class="content-section-b">
 
@@ -129,14 +58,14 @@ index: yes
             </div>
             
             <div class="row">
-            	<div class="col-lg-6 col-sm-12 lead">
+            	<div class="col-sm-6 col-xs-12 lead">
                     <div class="clearfix"></div>
                     <img class="img-responsive no-shadow" src="img/SampleVelvetHanger.jpg" alt="">
                     <h2 class="section-heading perfect-for">Velvet Coated Slimline</h2>    
                     <p>Velvet-coated Higher Hangers are perfect for garments that might slide off typical hangers like dresses, strappy shirts, pants and skirts. They also have a slim profile that allows more hangers to fit next to one another.</p>
             	</div>
             	
-            	<div class="col-lg-6 col-sm-12 lead">
+            	<div class="col-sm-6 col-xs-12 lead">
                     <div class="clearfix"></div>
                     <img class="img-responsive" src="img/hdf1.jpg" alt="">
                     <h2 class="section-heading perfect-for">HDF Wood-Style</h2>    
@@ -148,8 +77,8 @@ index: yes
             
          </div>
        </div><!-- END /.content-section-b --> 
-
-<!-- BEGIN /.content-section-a -->   
+       
+       <!-- BEGIN /.content-section-a -->   
      <div class="content-section-a">
 
         <div class="container">
@@ -176,7 +105,35 @@ index: yes
          </div>
        </div><!-- END /.content-section-a --> 
        
-<!-- BEGIN /.content-section-a -->   
+       {% include featured-on.html %}
+       
+       <!-- BEGIN .content-section-a -->
+    <div id="calculator" class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+      
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Calculate Your Space Savings</h2>
+                    <div class="lead">{% include calculator.html %}</div>
+                    <p><a href="faq.html#faq-6">Click here for an explanation of the math behind the calculator</a>.</p>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                  <img class="img-responsive" src="img/beforeandafter.jpg" alt="">
+                  <p class="caption">Look at how much new space is created compared to traditional hangers (early prototypes shown on right).</p>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+<!-- END /.content-section-a -->
+       
+       <!-- BEGIN /.content-section-b -->   
      <div class="content-section-b">
 
         <div class="container">
@@ -221,7 +178,54 @@ index: yes
 
             </div>
          </div>
-       </div><!-- END /.content-section-a --> 
+       </div><!-- END /.content-section-b --> 
+
+       
+<!-- BEGIN /.content-section-a -->   
+     <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading perfect-for">Higher Hangers Are Perfect For:</h2>
+            	</div>
+            </div>
+
+<!-- BEGIN Perfect For Loop-->
+{% for text in site.perfect_for %}
+	 {% capture loop_index %}{{ forloop.index }}{% endcapture %}
+  {% capture thecycle %}{% cycle '1', '2' %}{% endcapture %}
+
+{% if thecycle == '1' %}
+    
+   <div class="row">
+            	<div class="col-md-4 col-md-offset-1 col-sm-12 lead">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">{{ text.title }}</h3>
+                    <p class="lead">{{ text.content }}</p>
+            	</div>        	
+    {% else %}
+
+          <div class="col-md-4 col-md-offset-2 col-sm-12 lead">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">{{ text.title }}</h3>
+                    <p class="lead">{{ text.content }}</p>
+            	</div>	
+            </div>
+    {% endif %}
+{% endfor %}
+<!-- END Perfect For Loop -->
+
+
+		
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+
        
 </div>   
 </section>
