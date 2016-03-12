@@ -7,5 +7,5 @@ redirect: https://www.kickstarter.com/projects/higherhangers/higher-hangers-spac
 
 ---
 
-You are being redirected. If you are not redirected soon, <a href="{{ page.redirect }}">click here to be taken to the Higher Hangers Kickstarter Page</a>.
+You are being redirected to Kickstarter. If you are not redirected soon, <a href="{{ page.redirect }}">click here to be taken to the Higher Hangers Kickstarter Page</a>.
 
