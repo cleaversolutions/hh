@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: one-column
 title: Higher Hangers Media Kit
 description: How Drew Cleaver invented space-saving Higher Hangers in his dorm room as a college freshman. Make more room in your closet with Higher Hangers.
 weight: 10
@@ -391,7 +391,6 @@ I have been looking for this type of product, specifically for pants--I use kid'
 ## Links & Shareable Media
 
 - Short Kickstarter Link: `http://kck.st/1SdfGfN`
-- Full Kickstarter Link: `https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re`
 - [Click Here to Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re)
 - [Click Here to Tweet on Twitter](https://twitter.com/home?status=100%25%20Funded%20on%20Kickstarter%20in%203%20Days!%20Higher%20Hangers%20are%20the%20first%20vertical-space%20saving%20hangers%20EVER!%20http%3A//kck.st/1SdfGfN)
 - [Click Here to Pin on Pinterest](https://pinterest.com/pin/create/button/?url=http%3A//kck.st/1SdfGfN&media=http%3A//www.higherhangers.com/img/funded_on_kickstarter.png&description=Now%20on%20Kickstarter%3A%20Genius%20hanger%20saves%20vertical%20space%20in%20your%20closet.%20Creates%20enough%20new%20space%20for%2048%20more%20shoe%20boxes!)
