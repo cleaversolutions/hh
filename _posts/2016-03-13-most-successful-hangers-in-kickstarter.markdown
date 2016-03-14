@@ -28,7 +28,6 @@ In fact, we broke the record within 48 hours of launching on Kickstarter. Buckin
 
 <div class="fb-like" data-href="http://www.higherhangers.com/most-successful-hangers-in-kickstarter.html" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
-### Comments
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -37,5 +36,3 @@ In fact, we broke the record within 48 hours of launching on Kickstarter. Buckin
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=194581360877232";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
-<div class="fb-comments" data-href="http://www.higherhangers.com/most-successful-hangers-in-kickstarter.html" data-numposts="5"></div>
