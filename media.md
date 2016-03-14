@@ -559,35 +559,31 @@ Multiple sizes of all images are included in the media kit folder, downloadable 
 
 Youtube link: [https://www.youtube.com/watch?v=qW0g6n4ogtw](https://www.youtube.com/watch?v=qW0g6n4ogtw ) 
 
-### 560 x 315 Video
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0"></iframe>
+</div>
 
-Embed code: `<iframe width="560" height="315" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
+560 x 315 Embed code: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
-
----
-
-### 640 x 360 Video
-
-Embed code: `<iframe width="640" height="360" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
 
 ---
 
-### 853 x 480 Video
+640 x 360 Embed code: 
 
-Embed code: `<iframe width="853" height="480" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
+`<iframe width="640" height="360" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
 
 ---
 
-### 1280 x 720 Video
+853 x 480 Embed code: 
 
-Embed code: `<iframe width="1280" height="720" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
+`<iframe width="853" height="480" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>
+---
+
+1280 x 720 Embed code: 
+
+`<iframe width="1280" height="720" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
 
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
