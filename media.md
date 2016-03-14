@@ -81,8 +81,9 @@ Denver, CO 80211<br /></li>
 
 ## Quick Facts & Stats
 
-Higher Hangers
+**Higher Hangers**
 
+- The #1 Hangers in Kickstarter history
 - Higher Hangers are the first vertical space-saving clothes hanger ever
 - Invented by college student Drew Cleaver in his dorm room to save space
 - U.S. Patent Number 7,404,503 awarded on first application
@@ -93,13 +94,19 @@ Higher Hangers
     - 48 shoe boxes
 - [www.HigherHangers.com](http://www.higherhangers.com)
 
-Kickstarter
+**Kickstarter**
 
 - Kickstarter Campaign Link: [http://kck.st/1SdfGfN](http://kck.st/1SdfGfN)
 - **Limited Quanities up to 50% off retail price available through Kickstarter campaign**
 - Campaign runs through March 31
 - 100% Funded ($40,000) in three days
 - Delivery expected within 90 days of campaign close
+
+**Live Kickstarter Statistics**
+
+<iframe frameborder="0" height="420" scrolling="no" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/card.html?v=2" width="220"></iframe>
+
+Live widget embed code: `<iframe frameborder="0" height="420" scrolling="no" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/card.html?v=2" width="220"></iframe>`
 
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
@@ -521,33 +528,26 @@ Multiple sizes of all images are included in the media kit folder, downloadable 
 
 ## Kickstarter Video & Embed Code
 
-### 480 x 360 Video & Code
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html"></iframe>
+</div>
 
-Embed Code:
+
+480 x 360 Embed Code:
 
 `<iframe width="480" height="360" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>`
 
-<iframe width="480" height="360" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>
-
 ---
 
-### 640 x 480 Video & Code
-
-Embed Code:
+640 x 480 Embed Code:
 
 `<iframe width="640" height="480" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>`
 
-<iframe width="640" height="480" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>
-
 ---
 
-### 800 x 600 Video & Code
-
-Embed Code:
+800 x 600 Embed Code:
 
 `<iframe width="800" height="600" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>`
-
-<iframe width="800" height="600" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>
 
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
