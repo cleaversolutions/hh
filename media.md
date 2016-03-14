@@ -107,7 +107,9 @@ Denver, CO 80211<br /></li>
 
 <iframe frameborder="0" height="420" scrolling="no" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/card.html?v=2" width="220"></iframe>
 
-Live widget embed code: `<iframe frameborder="0" height="420" scrolling="no" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/card.html?v=2" width="220"></iframe>`
+Live widget embed code: 
+
+<script src="https://gist.github.com/cleaversolutions/421fcc400952bc800536.js"></script>
 
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
@@ -530,19 +532,19 @@ Multiple sizes of all images are included in the media kit folder, downloadable 
 
 480 x 360 Embed Code:
 
-`<iframe width="480" height="360" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>`
+<script src="https://gist.github.com/cleaversolutions/fc2069de51dc497041e1.js"></script>
 
 ---
 
 640 x 480 Embed Code:
 
-`<iframe width="640" height="480" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>`
+<script src="https://gist.github.com/cleaversolutions/5b88dc70ee7c6746a60c.js"></script>
 
 ---
 
 800 x 600 Embed Code:
 
-`<iframe width="800" height="600" src="https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re/widget/video.html" frameborder="0" scrolling="no"> </iframe>`
+<script src="https://gist.github.com/cleaversolutions/6770e3488c3d3b28c2f1.js"></script>
 
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
