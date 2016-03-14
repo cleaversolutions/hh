@@ -3,7 +3,7 @@ layout: post
 img: hdf-fb.jpg
 img-caption: A traditional clothes hanger next to a Higher Hangers prototype. Space-saving features of Higher Hangers allow many closets to double (or more) in capacity and allow for enhanced functionality.
 title: INFOGRAM - Why These Are The &#35;1 Hangers In Kickstarter History
-description: 5 reasons why these hangers are breaking all the rule.
+description: 5 reasons why these hangers are breaking all the rules.
 index: yes
 ---
 
