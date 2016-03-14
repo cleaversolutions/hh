@@ -4,7 +4,7 @@
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 {% if site.alert %}<div class="alert alert-danger" role="alert">
 	<h4>Buy The #1 Hangers in <img src="img/kickstarter-logo-dark-sm.jpg" /> History For <span id="tzcd"></span> 
-<a href="{{ site.get-url }}" onclick="ga('send', 'event', 'Get-HH', 'click', '{{ page.url }}-alert-banner-button');" class="btn btn-info" role="button"><strong>Click Here to Buy</strong></a></h4>
+<a href="{{ site.get-url }}&utm_content=page_{{ page.url }}" onclick="ga('send', 'event', 'Get-HH', 'click', '{{ page.url }}-alert-banner-button');" class="btn btn-info" role="button"><strong>Click Here to Buy</strong></a></h4>
 
 </div>{% endif %}
     <div class="container">
@@ -48,7 +48,7 @@
                 </li>-->
                 
                 <li>
-               <a href="{{ site.get-url }}" onclick="ga('send', 'event', 'Get-HH', 'click', '{{ page.url }}-header-nav');"><button type="button" class="btn-primary btn-md">
+               <a href="{{ site.get-url }}&utm_content=page_{{ page.url }}" onclick="ga('send', 'event', 'Get-HH', 'click', '{{ page.url }}-header-nav');"><button type="button" class="btn-primary btn-md">
   <i class="fa fa-shopping-cart"></i> {{ site.get-text }}</button></a>                </li>
             </ul>
         </div>
