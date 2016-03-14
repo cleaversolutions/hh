@@ -579,7 +579,7 @@ Youtube link: [https://www.youtube.com/watch?v=qW0g6n4ogtw](https://www.youtube.
 
 1280 x 720 Embed code: 
 
-`<iframe width="1280" height="720" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
+<script src="https://gist.github.com/cleaversolutions/456265b762069490275c.js"></script>
 
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
