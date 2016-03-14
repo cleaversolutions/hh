@@ -47,6 +47,7 @@ You may use this page to help you write media articles pertaining to Higher Hang
   <a href="#images" class="list-group-item">Included Images</a>
   <a href="#video" class="list-group-item">Kickstarter Video and Embed Code</a>
   <a href="#youtube" class="list-group-item">16 Second Illustration Video with Commentary</a>
+  <a href="#infographic" class="list-group-item">Infographic: Why These are the #1 Hangers in Kickstarter History</a>
 </div>
 
 
@@ -587,6 +588,18 @@ Youtube link: [https://www.youtube.com/watch?v=qW0g6n4ogtw](https://www.youtube.
 
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
+
+---
+
+<a name="infographic"></a>
+
+## Infographic: Why These are the &#35;1 Hangers in Kickstarter History
+
+Embed code:
+
+`<script id="infogram_0_higher_hangers_the_1_hangers_in_kickstarter_history" title="Higher Hangers, the #1 Hangers in Kickstarter History" src="//e.infogr.am/js/embed.js?aag" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a target="_blank" href="https://infogr.am/higher_hangers_the_1_hangers_in_kickstarter_history" style="color:#989898!important;text-decoration:none!important;">Higher Hangers, the #1 Hangers in Kickstarter History</a></div>`
+
+<script id="infogram_0_higher_hangers_the_1_hangers_in_kickstarter_history" title="Higher Hangers, the #1 Hangers in Kickstarter History" src="//e.infogr.am/js/embed.js?aag" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a target="_blank" href="https://infogr.am/higher_hangers_the_1_hangers_in_kickstarter_history" style="color:#989898!important;text-decoration:none!important;">Higher Hangers, the #1 Hangers in Kickstarter History</a></div>
 
 
 
