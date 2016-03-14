@@ -2,14 +2,14 @@
 layout: post
 img: hdf-fb.jpg
 img-caption: A traditional clothes hanger next to a Higher Hangers prototype. Space-saving features of Higher Hangers allow many closets to double (or more) in capacity and allow for enhanced functionality.
-title: INFOGRAM - Why These Are The &#35;1 Hangers In Kickstarter History
-description: 5 reasons why these hangers are breaking all the rules.
+title: INFOGRAPHIC - 5 Reasons These Are The &#35;1 Hangers In Kickstarter History
+description: Why these hangers are breaking all the rules.
 index: yes
 ---
 
 <img src="img/hdf-fb.jpg" class="img-responsive" alt="Higher Hangers Photo">
 
-<img src="img/media_kit/drew_cleaver_headshot/drew_cleaver_headshot_03_100x100.jpg" class="img-responsive img-circle pull-right" alt="Drew Cleaver Headshot">March 14,2016<br /><em>By Drew Cleaver, Higher Hangers Inventor</em><br />
+<img src="img/media_kit/drew_cleaver_headshot/drew_cleaver_headshot_03_100x100.jpg" class="img-responsive img-circle pull-right" alt="Drew Cleaver Headshot">March 14, 2016<br /><em>By Drew Cleaver, Higher Hangers Inventor</em><br />
 
 
 ---
@@ -20,7 +20,7 @@ We made Kickstarter history, and I almost missed it. Someone pointed this out to
 
 There have been many attempts over the years to launch a new hanger design on Kickstarter, and I have have a few theories why products like this face an uphill battle. Most fizzle out and die, but thanks to you we've made Higher Hangers a huge success. 
 
-In fact, we broke the record within 48 hours. Bucking the trend like this doesn't happen often, so I decided to think about what makes Higher Hangers different from all the rest. This infographic is what I came up with:
+In fact, we broke the record within 48 hours of launching on Kickstarter. Bucking the trend like this doesn't happen often, so I thought about what makes Higher Hangers different from all the rest. This infographic is what I came up with:
 
 <script id="infogram_0_higher_hangers_the_1_hangers_in_kickstarter_history" title="Higher Hangers, the #1 Hangers in Kickstarter History" src="//e.infogr.am/js/embed.js?RT2" type="text/javascript"></script>
 
