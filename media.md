@@ -592,7 +592,7 @@ Youtube link: [https://www.youtube.com/watch?v=qW0g6n4ogtw](https://www.youtube.
 
 Embed code:
 
-`<script id="infogram_0_higher_hangers_the_1_hangers_in_kickstarter_history" title="Higher Hangers, the #1 Hangers in Kickstarter History" src="//e.infogr.am/js/embed.js?aag" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a target="_blank" href="https://infogr.am/higher_hangers_the_1_hangers_in_kickstarter_history" style="color:#989898!important;text-decoration:none!important;">Higher Hangers, the #1 Hangers in Kickstarter History</a></div>`
+<script src="https://gist.github.com/cleaversolutions/0a1648307c5ac3ba8f17.js"></script>
 
 <script id="infogram_0_higher_hangers_the_1_hangers_in_kickstarter_history" title="Higher Hangers, the #1 Hangers in Kickstarter History" src="//e.infogr.am/js/embed.js?aag" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a target="_blank" href="https://infogr.am/higher_hangers_the_1_hangers_in_kickstarter_history" style="color:#989898!important;text-decoration:none!important;">Higher Hangers, the #1 Hangers in Kickstarter History</a></div>
 
