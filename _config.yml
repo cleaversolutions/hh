@@ -18,7 +18,7 @@ baseurl: ""
 #
 
 #Localhost
-destination:  /Users/Matt/Dropbox/01 higherhangers shared/_site
+#destination:  /Users/Matt/Dropbox/01 higherhangers shared/_site
 
 # ----------------------- #
 #    Jekyll & Plugins     #
