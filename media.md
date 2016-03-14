@@ -562,19 +562,19 @@ Youtube link: [https://www.youtube.com/watch?v=qW0g6n4ogtw](https://www.youtube.
 
 560 x 315 Embed code: 
 
-`<iframe width="560" height="315" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
+<script src="https://gist.github.com/cleaversolutions/bdf694cda2f912bcaa99.js"></script>
 
 ---
 
 640 x 360 Embed code: 
 
-`<iframe width="640" height="360" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
+<script src="https://gist.github.com/cleaversolutions/fe701d0d2b9fdb82d0cc.js"></script>
 
 ---
 
 853 x 480 Embed code: 
 
-`<iframe width="853" height="480" src="https://www.youtube.com/embed/qW0g6n4ogtw?rel=0" frameborder="0" allowfullscreen></iframe>`
+<script src="https://gist.github.com/cleaversolutions/c7b51e82fa90299c8641.js"></script>
 
 ---
 
