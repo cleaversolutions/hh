@@ -404,7 +404,7 @@ I have been looking for this type of product, specifically for pants--I use kid'
 
 ## Included Images
 
-Multiple sizes of all images are included in the media kit folder, downloadable at [https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0](https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0)
+Multiple sizes of all images are included in the media kit folder, downloadable [by clicking this link.](https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0)
 
 <div class="row">
   <div class="col-md-4">
