@@ -23,7 +23,7 @@ nav-title: Media Kit
 
 <a href="https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0" class="btn btn-primary btn-lg" role="button"><i class="fa fa-cloud-download"></i>  Click Here to Download Entire Media Kit (13MB)</a>
 
-You may use this page to help you write media articles pertaining to Higher Hangers. All contents of this page, including all text and image files, can be downloaded in one folder using this link: [https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0](https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0)
+You may use this page to help you write media articles pertaining to Higher Hangers. All contents of this page, including all text and image files, can be downloaded in one folder [by clicking this link.](https://www.dropbox.com/sh/x1qkvtyj5rx2zv3/AAAw3g6eArasRkVASGS4Zryva?dl=0)
 
 <a href="/img/media_kit_instructions.jpg" class="btn btn-warning" role="button"><i class="fa fa-question-circle"></i>  Having trouble downloading? Click here for instructions.</a>
 
