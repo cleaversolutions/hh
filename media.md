@@ -6,6 +6,29 @@ weight: 10
 index: yes
 nav-title: Media Kit
 ---
+<!-- BEGIN .content-section-b --><div class="content-section-b">
+
+<div class="row">
+      
+<div class="col-md-6">
+<img class="img-responsive no-shadow" src="img/featured_on/FeaturedOn.png" alt="">
+</div>
+
+<div class="col-md-6">
+                
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://interactive.tegna-media.com/video/embed/embed.html?dfpposition=Video_prestream_external&id=2019872&title=A%20new%20take%20on%20the%20typical%20clothes%20hanger&site=73&station=co-denver-KUSA-B3316&api=prod&playerid=6918249996581&dfpid=32805352"></iframe>
+</div>
+                    
+<p class="caption">NBC 9News runs a segment on Higher Hangers for Tech Tuesday.</p>   
+        	
+</div>
+                
+</div>
+</div>
+
+
+
 
 <div class="row">
   <div class="col-sm-4">
