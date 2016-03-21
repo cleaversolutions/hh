@@ -61,9 +61,10 @@ You may use this page to help you write media articles pertaining to Higher Hang
   <a href="#facts" class="list-group-item">Quick Facts & Stats</a>
   <a href="#product" class="list-group-item">Product Description</a>
   <a href="#bio" class="list-group-item">Inventor Bio</a>
-  <a href="#press" class="list-group-item">Press Release 1 - Web & Blogs</a>
-  <a href="#press2" class="list-group-item">Press Release 2 - Design</a>
-  <a href="#press3" class="list-group-item">Press Release 3 - General</a>
+  <a href="#press4" class="list-group-item">Press Release March 21, 2016 - The #1 Hangers in Kickstarter History</a>
+  <a href="#press" class="list-group-item">Press Release March 9, 2016 - Web & Blogs</a>
+  <a href="#press2" class="list-group-item">Press Release March 9, 2016 - - Design</a>
+  <a href="#press3" class="list-group-item">Press Release March 9, 2016 - - General</a>
   <a href="#testimonials" class="list-group-item">Testimonials</a>
   <a href="#interview" class="list-group-item">Sample Interview Questions</a>
   <a href="#links" class="list-group-item">Links & Shareable Media</a>
@@ -173,10 +174,77 @@ Drew attended Cypress Creek High School in Houston, TX and graduated from John B
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
 ---
+<a name="press4"></a>
+
+## Press Release March 21, 2016 - The #1 Hangers in Kickstarter History
+
+FOR IMMEDIATE RELEASE
+
+**These are the #1 Hangers in Kickstarter History**
+
+Denver, CO - March 21, 2016 - Many have tried to launch a new style of clothes hanger on Kickstarter, but none has ever been as successful as Drew Cleaver's Higher Hangers. Within forty-eight hours after their launch, they blew past the previous record holder, the Helmet and Gear Hanger. 
+
+While one in four hanger campaigns fail to even meet their fundraising goal, Higher Hangers has raised over 170% of their goal and currently sit at $69,000 and counting. They still have ten days left before their campaign ends on March 31.
+
+What makes these hangers so special compared to others? Inventor Drew Cleaver has identified five things that set Higher Hangers apart:
+
+1. Higher Hangers address a need many people have. Almost everyone wishes they had a bigger closet, and Higher Hangers free up valuable closet space.
+2. Higher Hangers make a big difference. The space savings isn't just a little bit. Higher Hangers create enough new space in an average closet for 48 shoe boxes, and even more if it is a walk-in style closet.
+3. Higher Hangers have mass appeal. Many hangers on Kickstarter only appealed to certain sub-groups, like kids, motorcycle enthusiasts, or people looking for an accessory hanger. Higher Hangers benefit anyone who has a closet.
+4. Higher Hangers are simple to use. Some new designs of hangers are so complicated to use that people shy away from them. On the other hand, Higher Hangers work just like traditional clothes hangers without losing any utility. Yes, they even work with collared shirts.
+5. Higher Hangers are priced right. Based on how many hangers backers get at different reward tiers, Higher Hangers are the most affordable compared to all previous hangers.
+
+Add these factors up, and you get the most successful hangers in Kickstarter history. 
+
+Here’s how they work: Higher Hangers have a patented design that has a recessed hook, raising the clothes hanger 4-5 inches (or more) over traditional clothes hangers, getting rid of wasted vertical space between the closet rod and clothes. 
+
+Cleaver went through multiple design revisions to arrive at the perfect hanger. “Since inventing Higher Hangers trying to save space in my dorm room, I’ve been my toughest critic and made sure Higher Hangers had the utility of traditional clothes hangers,” says Cleaver.
+
+Right now, there are two different kinds of Higher Hangers: Velvet-Flocked Slimline and Heavy Duty Engineered Wood Composite (HDF). Built with a popular nonslip coating with a slim profile, velvet Higher Hangers work well with dresses, pants, strap tops, or anything that tends to fall off a plastic hanger, like most women’s tops & all pants. The thin profile allows more clothes to hang side to side, allowing some people to double or triple closet space laterally.
+
+The HDF Higher Hangers are one solid piece of wood composite, plus the hook, making a highly durable hanger built to last. They are ideal for dress or collared shirts, t-shirts, coats, or anything with sleeves. Rather than typical wood hangers, which are two to three pieces of wood glued together, HDF Higher Hangers are made from a single piece, making them tougher than most wood hangers.
+
+Since launching on Kickstarter, over 30,000 Higher Hangers have been backed from 16 countries. You can take advantage of early bird discounts up to 50% off the retail price by backing Higher Hangers on Kickstarter for as little as $15. The campaign ends March 31.
+
+(Approximately 550 words)
+
+Contact:
+Drew Cleaver
+drew@higherhangers.com
+http://www.higherhangers.com
+Kickstarter: http://kck.st/1SdfGfN
+
+Higher Hangers	
+PO Box 11713
+Denver, CO 80211
+(720) 588-8825
+
+Skype: drew.cleaver
+
+Full media kit: http://www.higherhangers.com/media.html
+
+- Contact Information
+- Quick Facts & Stats
+- Product Description
+- Inventor Bio
+- Press Release 1
+- Press Release 2
+- Testimonials
+- Sample Interview Questions
+- Links & Shareable Media
+- Included Images
+- Kickstarter Video and Embed Code
+- 16 Second Illustration Video with Commentary
+
+<p>###</p>
+
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
+
+---
 
 <a name="press"></a>
 
-## Press Release 1 - Web & Blogs
+## Press Release March 9, 2016 - Web & Blogs
 
 FOR IMMEDIATE RELEASE
 
@@ -241,7 +309,7 @@ Full media kit: http://www.higherhangers.com/media.html
 
 <a name="press2"></a>
 
-## Press Release 2 - Design
+## Press Release March 9, 2016 - Design
 
 FOR IMMEDIATE RELEASE:
 
@@ -305,7 +373,7 @@ Full media kit: http://www.higherhangers.com/media.html
 
 <a name="press3"></a>
 
-## Press Release 3 - General
+## Press Release March 9, 2016 - General
 
 FOR IMMEDIATE RELEASE:
 
@@ -620,5 +688,4 @@ Embed code:
 
 <script id="infogram_0_higher_hangers_the_1_hangers_in_kickstarter_history" title="Higher Hangers, the #1 Hangers in Kickstarter History" src="//e.infogr.am/js/embed.js?aag" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a target="_blank" href="https://infogr.am/higher_hangers_the_1_hangers_in_kickstarter_history" style="color:#989898!important;text-decoration:none!important;">Higher Hangers, the #1 Hangers in Kickstarter History</a></div>
 
-
-
+<a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
