@@ -42,8 +42,8 @@ social:
 
 opt-in-text: Yes! I Want Higher Hangers
 get-text: Buy Higher Hangers
-#get-url: https://shop.higherhangers.com?utm_source=higherhangers.com&utm_medium=link&utm_campaign=preorder
-get-url: https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re?utm_source=higherhangers.com&utm_medium=link&utm_campaign=kspledges
+get-url: https://shop.higherhangers.com?utm_source=higherhangers.com&utm_medium=link&utm_campaign=preorder
+#get-url: https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re?utm_source=higherhangers.com&utm_medium=link&utm_campaign=kspledges
 #get-url: https://shop.trycelery.com/page/1ad1c157-3e14-4591-b7d5-ea2c556300fb
 alert: yes #UNCOMMENT BODY MARGIN AT BOTTOM OF CSS WHEN ACTIVE
 kickstarter-url: http://kickstarter.com
