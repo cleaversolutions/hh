@@ -472,4 +472,10 @@ a:hover.learn-more-link {
 body {
     margin-top: 60px; /*Only when alert is activated*/
 }
+
+input#om-lightbox-chalkboard-optin-email
+
+{
+max-width: 100%
+}
 	
