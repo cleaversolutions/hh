@@ -487,4 +487,12 @@ p.counter {
 	font-size: 18px;
 	text-align: center;
 }
+
+h2.icon {
+	font-size: 100px;
+}
+
+.kickstarter-section {
+	margin-bottom: 0;
+}
 	
