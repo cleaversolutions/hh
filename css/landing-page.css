@@ -478,4 +478,13 @@ input#om-lightbox-chalkboard-optin-email
 {
 max-width: 100%
 }
+
+.counter h2 {
+	font-size: 48px; 
+}
+
+p.counter {
+	font-size: 18px;
+	text-align: center;
+}
 	
