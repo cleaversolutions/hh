@@ -137,7 +137,7 @@ index: 'yes'
                     <h2 class="section-heading">Frequently Asked Questions</h2>
                    	{% for faq in site.faq limit:3 %}
                     <h3>{{ faq.title }}</h3>
-                    <p class="lead">{{ faq.content }}</p>
+                    <div class="lead">{{ faq.content }}</div>
             		{% endfor %}
 
                     <a href="faq.html" class="btn btn-success btn-lg" onclick="ga('send', 'event', 'Button', 'click', '{{ page.url }}-faq');"><i class="fa fa-question-circle fa-fw"></i> <span class="network-name">Read More FAQs</span></a>
