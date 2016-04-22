@@ -469,10 +469,6 @@ a:hover.learn-more-link {
 	margin: 0 0 0 0;
 }
 
-body {
-    margin-top: 60px; /*Only when alert is activated*/
-}
-
 input#om-lightbox-chalkboard-optin-email
 
 {
