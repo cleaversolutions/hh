@@ -1,6 +1,6 @@
 ---
 layout: thankyou
-title: Thanks! You are now on the wait list. Be on the lookout for updates towards the end of February.
+title: Thanks! You are now on the wait list. Be on the lookout for updates towards the end of June.
 subTitle: This is the subtitle
 fb-pixel-lead: yes
 ---
@@ -17,8 +17,6 @@ fb-pixel-lead: yes
 <div class="row">
 
  	<div class="col-md-10 col-md-offset-1">
-
-		<p class="lead thank-you">I will send out an email towards the end of February with details on how to receive discounted Higher Hangers, along with some other surprises.</p>
 
 		<p class="lead thank-you">Until then, Share Higher Hangers on Facebook. Thanks!</p>
 
