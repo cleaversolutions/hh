@@ -88,7 +88,6 @@ You may use this page to help you write media articles pertaining to Higher Hang
   <li><i class="fa-li fa fa-home"></i>Higher Hangers	<br />
 PO Box 11713<br />
 Denver, CO 80211<br /></li>
-  <li><i class="fa-li fa fa-phone"></i>(720) 588-8825</li>
   <li><i class="fa-li fa fa-facebook"></i>Facebook: <a href="http://www.facebook.com/higherhangers">facebook.com/higherhangers</a></li>
   <li><i class="fa-li fa fa-instagram"></i>Instagram: <a href="https://www.instagram.com/drew.cleaver/">@drew.cleaver</a>, <a href="https://www.instagram.com/higherhangers/">@higherhangers</a></li>
   <li><i class="fa-li fa fa-linkedin"></i>LinkedIn: <a href="http://www.linkedin.com/in/drewcleaver">linkedin.com/in/drewcleaver</a></li>
