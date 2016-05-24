@@ -2,9 +2,7 @@
 layout: one-column
 title: Higher Hangers Media Kit
 description: How Drew Cleaver invented space-saving Higher Hangers in his dorm room as a college freshman. Make more room in your closet with Higher Hangers.
-weight: 10
 index: yes
-nav-title: Media Kit
 ---
 <!-- BEGIN .content-section-b --><div class="content-section-b">
 
