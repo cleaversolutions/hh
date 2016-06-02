@@ -9,7 +9,7 @@ index: yes
 
 <img src="img/plastic1.jpg" class="img-responsive" alt="New Pastic Short Neck Higher Hangers Photo">
 
-<img src="img/media_kit/drew_cleaver_headshot/drew_cleaver_headshot_03_100x100.jpg" class="img-responsive img-circle pull-right" alt="Drew Cleaver Headshot">March 14, 2016<br /><em>By Drew Cleaver, Higher Hangers Inventor</em><br />
+<img src="img/media_kit/drew_cleaver_headshot/drew_cleaver_headshot_03_100x100.jpg" class="img-responsive img-circle pull-right" alt="Drew Cleaver Headshot">{{ page.date | date: "%B %-d, %Y"}}<br /><em>By Drew Cleaver, Higher Hangers Inventor</em><br />
 
 ---
 
