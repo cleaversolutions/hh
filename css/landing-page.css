@@ -698,3 +698,14 @@ div.timeline-image a {
 }
 
 /*--------- END TIMELINE */
+
+.buy-now {
+	background-color: #ff0000;
+	border-color: #b20000;
+}
+
+.btn-primary.buy-now:hover {
+	background-color: #b20000;
+	border-color: #660000;
+}
+
