@@ -12,6 +12,7 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 baseurl: "/hh"
 fb-img: KickstarterThumbnail.jpg
 nav-logo: nav_logo.png
+mobile-nav-logo: nav_logo_mobile.png
 baseurl: ""
 
 #Live Website
