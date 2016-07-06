@@ -712,3 +712,7 @@ div.timeline-image a {
 .buy-now.center-block {
 	margin-top: 10px;
 }
+
+body {
+	margin-top: 60px;
+}

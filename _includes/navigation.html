@@ -2,6 +2,10 @@
 
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+{% if site.alert %}<div class="alert alert-danger" role="alert">
+	<h4>NOW in stock! Worldwide Shipping Available! Free FedEx Shipping to the US 48.
+<!-- <a href="{{ site.get-url }}&utm_content=alert_banner_{{ page.url }}" onclick="ga('send', 'event', 'Get-HH', 'click', '{{ page.url }}-alert-banner-button');" class="btn btn-info" role="button"><strong>Click Here to Buy</strong></a>--></h4>
+</div>{% endif %}
 
     <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
