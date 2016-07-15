@@ -257,7 +257,40 @@ index: 'yes'
 <blockquote class="blockquote-reverse">
 <p>“As a professional organizer, space planning is a large part of my business. Clients hire me not only to organize, but also to make the most of the space available to them. I can't believe something as simple as Higher Hangers’ design could help me provide more useable space in a closet. Here in San Francisco, closet space is at a premium. Higher Hangers give me the ability to organize and create more space for shelving or shoe storage." </p>
   <footer>Samantha, Professional Organizer, <cite title="Source Title">SimplyOrganized.me</cite></footer>
-</blockquote>              
+</blockquote>        
+
+<div class="row">
+<div class="col-lg-12 lead">
+   <hr class="section-heading-spacer" />
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Social Media</h2>
+
+</div>
+
+
+<div class="row">
+            	
+            	
+                 
+                   	{% assign posts = site.social | reverse %}
+                   	{% for post in posts limit:3 %}
+                    <div class="col-md-4 col-sm-6 lead">
+                    <div class="lead">{{ post.content }}</div>
+            		</div>
+            		{% endfor %}
+
+                    
+                
+                
+
+            </div>
+
+
+
+
+
+
+      
                 </div>
                 
 

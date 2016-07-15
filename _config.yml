@@ -54,5 +54,6 @@ collections:
   - text_files
   - perfect_for
   - faq
+  - social
   
 exclude: [_old_files]
