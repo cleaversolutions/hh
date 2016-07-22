@@ -3,6 +3,7 @@ layout: thankyou
 title: Thanks! You are now on the wait list. Be on the lookout for updates towards the end of June.
 subTitle: This is the subtitle
 fb-pixel-lead: yes
+noindex: true
 ---
 
 <div id="fb-root"></div>
