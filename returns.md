@@ -26,6 +26,8 @@ Outside the US 48, our policy is the same, except that the customer is required 
 
 Full return policy [HERE](/returns.html)
 
+---
+
 Free & Simple Returns – Effective August 1, 2016
 
 ## WITHIN THE US 48 (all states excluding Alaska and Hawaii)
