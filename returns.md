@@ -8,7 +8,8 @@ description: Free & Simple Returns. 100% money back guarantee on orders placed w
 index: yes
 ---
 
-Free Returns only on Orders with Free Shipping
+---
+THIS SECTION WILL BE MOVED TO FAQ
 
 Add to top of FAQ
 Add to homepage front and center, maybe even above/around buy buttons
@@ -23,7 +24,7 @@ For returns in the US 48, we provide a free prepaid return shipping label, just 
 
 Outside the US 48, our policy is the same, except that the customer is required to pay the shipping costs associated with fulfilling the order and returning the items.  
 
-Full return policy HERE
+Full return policy [HERE](/returns.html)
 
 Free & Simple Returns – Effective August 1, 2016
 
