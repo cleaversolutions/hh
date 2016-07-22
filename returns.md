@@ -5,7 +5,7 @@ subTitle: A Template by Start Bootstrap
 #nav-title: Returns
 #weight: 10
 description: Free & Simple Returns. 100% money back guarantee on orders placed within the US 48.
-index: yes
+#index: yes
 ---
 
 ---
