@@ -1,0 +1,54 @@
+---
+layout: page
+title: Social Media Buzz
+---
+
+    <div class="content-section-a">
+
+        <div class="container">
+        
+        <h2>Use #higherhangers on social media to let us know what you think</h2	>
+
+
+  <!-- BEGIN Perfect For Loop-->
+  {% assign texts = site.social | reverse %}
+{% for text in texts %}
+	 {% capture loop_index %}{{ forloop.index }}{% endcapture %}
+  {% capture thecycle %}{% cycle '1', '2', '3', '4' %}{% endcapture %}
+
+{% if thecycle == '1' %}
+    
+   <div class="row">
+            	<div class="col-md-3">
+                    <div class="clearfix"></div>
+                    <p class="lead">{{ text.content }}</p>
+            	</div>        	
+    {% elsif thecycle == '2'%}
+
+          <div class="col-md-3">
+                    <div class="clearfix"></div>
+                    <p class="lead">{{ text.content }}</p>
+            	</div>	
+            
+    {% elsif thecycle == '3'%}
+
+          <div class="col-md-3">
+                    <div class="clearfix"></div>
+                    <p class="lead">{{ text.content }}</p>
+            	</div>	
+    {% else %}   
+   			 <div class="col-md-3">
+                    <div class="clearfix"></div>
+                    <p class="lead">{{ text.content }}</p>
+            	</div>	
+            </div>    
+    {% endif %}
+{% endfor %}
+<!-- END Perfect For Loop -->
+
+</div>
+</div>
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
