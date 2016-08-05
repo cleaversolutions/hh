@@ -9,26 +9,15 @@ noindex: true
 ---
 
 ---
-THIS SECTION WILL BE MOVED TO FAQ
+Within the US 48 states, you get **FAST, FREE SHIPPING** on every order. Orders ship out the next business day, usually via FedEx.
 
-Add to top of FAQ
-Add to homepage front and center, maybe even above/around buy buttons
+If you are not 100% satisfied with your purchase for any reason within the first 30 days, you can go through our easy online return process to receive a **FREE** return label for a **100% refund***.
 
-Free Shipping & Free Returns in the US 48 (Prepaid Return Shipping Free of Charge)
-
-- 30 Day 100% money back guarantee (when choosing Ground Service Free shipping)
-- Pre-paid return shipping label 
-- Must use original box/packaging
-
-For returns in the US 48, we provide a free prepaid return shipping label, just drop it off and go! We’re so confident that you’ll love Higher Hangers we’re willing to provide a free and simple return process for you. All you need to do is keep the original box and return your Higher Hangers back to us with the provided label within 30 days after receiving them. After your return is received we will initiate a full refund back to the credit card you used for your purchase.
-
-Outside the US 48, our policy is the same, except that the customer is required to pay the shipping costs associated with fulfilling the order and returning the items.  
-
-Full return policy [HERE](/returns.html)
+<p class="small">*Product must be in original packaging in new condition. See our full return policy, including for those outside the US 48, below.</p>
 
 ---
 
-Free & Simple Returns – Effective August 1, 2016
+#### Free & Simple Returns – Effective August 1, 2016
 
 ## WITHIN THE US 48 (all states excluding Alaska and Hawaii)
 
