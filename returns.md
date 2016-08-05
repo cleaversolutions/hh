@@ -17,7 +17,7 @@ If you are not 100% satisfied with your purchase for any reason within the first
 
 ---
 
-#### Free & Simple Returns – Effective August 1, 2016
+#### Free & Simple Returns – Effective August 5, 2016
 
 To initiate a return, click the link at the bottom of your order confirmation email that says, "Click here to make a return." You may also [fill out the form by clicking here](https://higherhangers.wufoo.com/forms/skmlnm61ln0dlf).
 
