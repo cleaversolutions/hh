@@ -19,6 +19,8 @@ If you are not 100% satisfied with your purchase for any reason within the first
 
 #### Free & Simple Returns – Effective August 1, 2016
 
+To initiate a return, click the link at the bottom of your order confirmation email that says, "Click here to make a return." You may also [fill out the form by clicking here](https://higherhangers.wufoo.com/forms/skmlnm61ln0dlf).
+
 ## WITHIN THE US 48 (all states excluding Alaska and Hawaii)
 
 Within the US 48, we accept free, no cost returns for 30 days after receiving your order. If 30 days have gone by since your purchase, unfortunately we can’t offer you a refund or exchange.
