@@ -37,7 +37,7 @@ h6 {
     color: #f8f8f8;
    /* background: url(../img/intro-bg.jpg) no-repeat center center;*/
     background-size: cover;
-    background-color: #0AB2E0;
+    background-color: #555;
     border-bottom: 2px solid #e7e7e7;
 }
 
@@ -292,15 +292,15 @@ label {
 }
 
 .btn-success {
-	background-color: #555; /*01D38C*/
+	background-color: #ff0000; /*01D38C*/
 	height: 50px;
 	font-size: 22px;
-	border-color: #555;
+	border-color: #ff0000;
 }
 
 .btn-success:hover {
-	background-color: #999;
-	border-color: #999;
+	background-color: #b20000;
+	border-color: #b20000;
 }
 
 .center-text {
