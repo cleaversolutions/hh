@@ -292,13 +292,15 @@ label {
 }
 
 .btn-success {
-	background-color: #01D38C;
+	background-color: #999999; /*01D38C*/
 	height: 50px;
 	font-size: 22px;
+	border-color: #999999;
 }
 
 .btn-success:hover {
-	background-color: #01A06A;
+	background-color: #555555;
+	border-color: #555555;
 }
 
 .center-text {
