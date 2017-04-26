@@ -77,4 +77,13 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 {% else %}
 {% include fb-pixel-viewcontent.html %}
 {% endif %}
+
+{% if page.layout == 'napo' %}
+	<style type="text/css">
+	body{margin-top: 0;}
+
+</style>
+{% endif %}
+
+
 </head>
