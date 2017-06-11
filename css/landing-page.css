@@ -718,3 +718,8 @@ div.timeline-image a {
 body {
 	margin-top: 60px;
 }
+
+img.img-responsive.no-shadow.center-block.ks-logo {
+ margin: 0 0 10px;
+ padding: 0;
+}
