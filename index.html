@@ -148,8 +148,8 @@ index: 'yes'
                     <img class="img-responsive no-shadow" src="img/velvet_hanger_600x600.jpg" alt="Space Saving Higher Hangers - Velvet Slimline" title="Use short neck velvet Higher Hangers for ultimate sapce savings" />
                     <br />
                     <div class="text-center"><a class="btn btn-primary btn-lg buy-now" href="https://shop.higherhangers.com/collections/velvet">Buy Velvet</a></div>
-                    <h2 class="section-heading perfect-for">Nonslip Velvet Slimline</h2>    
-                    <p>Velvet-coated Higher Hangers are perfect for garments that might slide off typical hangers like dresses, strappy shirts, pants and skirts. They also have a slim profile that allows more hangers to fit next to one another.</p>
+                    {% capture velvet %}{% include_relative /_drew/velvet.md %}{% endcapture %}
+					{{ velvet | markdownify }}
             	</div>
             	
             	<div class="col-sm-4 col-xs-12 lead">
