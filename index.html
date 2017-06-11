@@ -167,8 +167,9 @@ index: 'yes'
                     <img class="img-responsive no-shadow" src="img/plastic_hangers_600x600.jpg" alt="Space Saving Higher Hangers - Velvet Slimline" title="Use short neck velvet Higher Hangers for ultimate sapce savings" />
                     <br />
                     <div class="text-center"><a class="btn btn-primary btn-lg buy-now" href="https://shop.higherhangers.com/collections/plastic">Buy Plastic</a></div>
-                    <h2 class="section-heading perfect-for">Slippery Plastic Slimline</h2>    
-                    <p>Slippery Plastic Slimline Higher Hangers with chrome metal hooks. No velvet coating makes for a more slippery, traditional surface great for collared clothing or t-shirts and more. Same exact shape as Nonslip Velvet Slimline Higher Hangers.</p>
+                    {% capture slippery %}{% include_relative /_drew/slippery.md %}{% endcapture %}
+					{{ slippery | markdownify }}
+                    
             	</div>
             	
             </div>
