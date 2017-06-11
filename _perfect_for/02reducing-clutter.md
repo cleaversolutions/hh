@@ -1,5 +1,6 @@
 ---
-title: Reducing Clutter
+title: Reducing Stress
+published: true
 ---
 
-Hang your clothes wrinkle-free. See your shoes. Find what you need.
+Hang your clothes wrinkle-free, see your shoes, find what you need, & get out of the door quickly without stres. 
