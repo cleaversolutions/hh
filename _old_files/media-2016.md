@@ -2,7 +2,7 @@
 layout: one-column
 title: Higher Hangers Media Kit
 description: How Drew Cleaver invented space-saving Higher Hangers in his dorm room as a college freshman. Make more room in your closet with Higher Hangers.
-index: yes
+index: no
 ---
 <!-- BEGIN .content-section-b --><div class="content-section-b">
 
@@ -15,7 +15,7 @@ index: yes
 <div class="col-md-6">
                 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://interactive.tegna-media.com/video/embed/embed.html?dfpposition=Video_prestream_external&id=2019872&title=A%20new%20take%20on%20the%20typical%20clothes%20hanger&site=73&station=co-denver-KUSA-B3316&api=prod&playerid=6918249996581&dfpid=32805352"></iframe>
+<iframe class="embed-responsive-item" src="http://interactive.tegna-media.com/video/embed/embed.html?dfpposition=Video_prestream_external&id=2019872&title=A%20new%20take%20on%20the%20typical%20clothes%20hanger&site=73&station=co-denver-KUSA-B3316&api=prod&playerid=6918249996581&dfpid=32805352"></iframe>
 </div>
                     
 <p class="caption">NBC 9News runs a segment on Higher Hangers for Tech Tuesday.</p>   
@@ -215,6 +215,7 @@ Higher Hangers
 PO Box 11713
 Denver, CO 80211
 
+
 Skype: drew.cleaver
 
 Full media kit: http://www.higherhangers.com/media.html
@@ -275,6 +276,7 @@ Kickstarter: http://kck.st/1SdfGfN<br />
 Higher Hangers	<br />
 PO Box 11713<br />
 Denver, CO 80211<br />
+
 
 Skype: drew.cleaver
 
@@ -338,6 +340,7 @@ Higher Hangers	<br />
 PO Box 11713<br />
 Denver, CO 80211<br />
 
+
 Skype: drew.cleaver
 
 Full media kit: http://www.higherhangers.com/media.html
@@ -392,6 +395,7 @@ Kickstarter: http://kck.st/1SdfGfN<br />
 Higher Hangers	<br />
 PO Box 11713<br />
 Denver, CO 80211<br />
+
 
 Skype: drew.cleaver
 
