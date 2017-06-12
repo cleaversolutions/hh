@@ -729,6 +729,6 @@ img.img-responsive.no-shadow.center-block.ks-logo {
  padding: 0;
 }
 
-#services > div > div > div > div > p > a {
-	margin-top: 10px;;
+a.btn.btn-primary.btn-lg.sneak-peak {
+	margin-top: 10px;
 }
