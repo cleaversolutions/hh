@@ -74,7 +74,7 @@ h6 {
 }
 
 .intro-header.sb h1 {
-	padding-top: 25%;
+	padding-top: 5%;
 	font-size: 3em;
 }
 
@@ -702,17 +702,22 @@ div.timeline-image a {
 /*--------- END TIMELINE */
 
 .buy-now {
-	background-color: #ff0000;
-	border-color: #b20000;
+	background-color: #428bca;/*ff0000*/
+	border-color: #346fa1;/*b20000*/
 }
 
 .btn-primary.buy-now:hover {
-	background-color: #b20000;
-	border-color: #660000;
+	background-color: #346fa1;/*b20000*/
+	border-color: #275379;/*660000*/
 }
 
 .buy-now.center-block {
 	margin-top: 10px;
+}
+
+a.btn.btn-success.btn-lg.buy-now:hover {
+	background-color: #346fa1;/*b20000*/
+	border-color: #275379;/*660000*/
 }
 
 body {
