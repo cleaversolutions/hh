@@ -732,3 +732,13 @@ img.img-responsive.no-shadow.center-block.ks-logo {
 a.btn.btn-primary.btn-lg.sneak-peak {
 	margin-top: 10px;
 }
+
+
+#home > div > div > div > div.col-md-4 > p > a.mc-link {
+	color: #8db9df;
+	text-decoration: underline;
+}
+
+#home > div > div > div > div.col-md-4 > p > a.mc-link:hover {
+	text-decoration: none;
+}
