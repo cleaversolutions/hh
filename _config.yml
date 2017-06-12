@@ -55,5 +55,13 @@ collections:
   - perfect_for
   - faq
   - social
+ 
+defaults:
+-
+    scope:
+      path: "img/media-kit-2017"
+    values:
+      image: true
+      
   
 exclude: [_old_files]
