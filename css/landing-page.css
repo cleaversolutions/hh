@@ -734,11 +734,11 @@ a.btn.btn-primary.btn-lg.sneak-peak {
 }
 
 
-#home > div > div > div > div.col-md-4 > p > a.mc-link {
+a.mc-link {
 	color: #8db9df;
 	text-decoration: underline;
 }
 
-#home > div > div > div > div.col-md-4 > p > a.mc-link:hover {
+a.mc-link:hover {
 	text-decoration: none;
 }
