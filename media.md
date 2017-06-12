@@ -46,7 +46,7 @@ index: yes
 
 You may use this page to help you write media articles pertaining to Higher Hangers. All contents of this page, including all text and image files, can be downloaded in one folder [by clicking this link.](https://www.dropbox.com/sh/2yoqpd8atp7lif9/AAACTwLMmOmWS5bimZxINAo3a?dl=0)
 
-<a href="/img/media_kit_instructions.jpg" class="btn btn-warning" role="button"><i class="fa fa-question-circle"></i>  Trouble? Click here for instructions.</a>
+<a href="/img/media_kit_instructions.png" class="btn btn-warning" role="button"><i class="fa fa-question-circle"></i>  Trouble? Click here for instructions.</a>
 
 ---
 
