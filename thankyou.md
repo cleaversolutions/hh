@@ -1,6 +1,6 @@
 ---
 layout: thankyou
-title: Thanks! You are now on our email list.
+title: Thanks! You'll be the first to know when Higher Hangers launch on Kickstarter.
 subTitle: This is the subtitle
 fb-pixel-lead: yes
 noindex: true
