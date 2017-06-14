@@ -742,3 +742,7 @@ a.mc-link {
 a.mc-link:hover {
 	text-decoration: none;
 }
+
+#asheville-optin {
+	font-weight: 500;
+}
