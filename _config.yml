@@ -48,7 +48,10 @@ get-url: http://shop.higherhangers.com
 #get-url: https://www.kickstarter.com/projects/higherhangers/higher-hangers-space-saving-closet-organization-re?utm_source=higherhangers.com&utm_medium=link&utm_campaign=kspledges
 #get-url: https://shop.trycelery.com/page/1ad1c157-3e14-4591-b7d5-ea2c556300fb
 alert: true #UNCOMMENT BODY MARGIN AT BOTTOM OF CSS WHEN ACTIVE
-kickstarter-url: http://kickstarter.com
+#kickstarter-url: http://kickstarter.com
+ks-url: http://1e.fnd.to/higherhangers2.0
+ks-text: Go to Kickstarter
+ks-live: false
 
 collections:
   - text_files
