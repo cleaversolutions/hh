@@ -746,3 +746,26 @@ a.mc-link:hover {
 #asheville-optin {
 	font-weight: 500;
 }
+
+a.btn-ks {
+	background:#2BDE73;
+	border-color: #22b15c;
+}
+
+a.btn-ks:hover {
+	background: #22b15c;
+	border-color: #198545;
+}
+
+.alert-ks {
+	background:#2BDE73;
+}
+
+a.btn-ks-dark {
+ background: #0F2105;
+}
+
+a.btn-ks-dark:hover {
+	background: #3e4d36
+;
+}
