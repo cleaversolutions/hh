@@ -4,7 +4,20 @@
 
 	<body>
 		{% include navigation.html %}
-		{% include header-sb.html %}
+		
+		{% if site.ks-live %}
+			
+			{% include header-ks.html %}
+	
+		{% else %}
+			
+			{% include header-sb.html %}
+
+		{% endif %}
+		
+		
+		
+		
 		<section id="services">	
 			
 				
