@@ -51,7 +51,7 @@ alert: true #UNCOMMENT BODY MARGIN AT BOTTOM OF CSS WHEN ACTIVE
 #kickstarter-url: http://kickstarter.com
 ks-url: http://1e.fnd.to/higherhangers2.0
 ks-text: Go to Kickstarter
-ks-live: false
+ks-live: true
 
 collections:
   - text_files
