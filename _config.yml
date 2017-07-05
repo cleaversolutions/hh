@@ -49,7 +49,7 @@ get-url: http://shop.higherhangers.com
 #get-url: https://shop.trycelery.com/page/1ad1c157-3e14-4591-b7d5-ea2c556300fb
 alert: true #UNCOMMENT BODY MARGIN AT BOTTOM OF CSS WHEN ACTIVE
 #kickstarter-url: http://kickstarter.com
-ks-url: http://1e.fnd.to/higherhangers2.0
+ks-url: http://15e.fnd.to/higherhangers2.0
 ks-text: Go to Kickstarter
 ks-live: true
 
