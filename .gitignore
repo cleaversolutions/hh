@@ -1,6 +1,4 @@
 _site
 node_modules
-Gemfile
-Gemfile.lock
 .jekyll-metadata
 .DS_Store
