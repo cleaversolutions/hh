@@ -1,6 +1,6 @@
 ---
 layout: thankyou
-title: Thanks! You'll be the first to know when Higher Hangers launch on Kickstarter.
+title: Thanks! Check your email for how to win a $750 Container Store gift card.
 subTitle: This is the subtitle
 fb-pixel-lead: yes
 noindex: true
