@@ -9,7 +9,7 @@ noindex: true
 ---
 
 ---
-Within the US 48 states, you get **FAST, FREE SHIPPING** on every order. Orders ship out the next business day.
+Within the US 48 states, you get **FAST SHIPPING** on every order. Orders ship out the next business day.
 
 If you are not 100% satisfied with your purchase for any reason within the first 30 days, you can go through our easy online return process to receive a **FREE** prepaid return label for a **100% refund***.
 
@@ -33,7 +33,7 @@ To complete your return, simply click the "Return your Higher Hangers" link at t
 
 Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.
 
-If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within 7 days for the full purchase amount if your order was placed with Free Ground Service shipping. Orders that chose upgraded shipping options will be refunded less the upgraded shipping cost. Regardless of shipping method, we will provide a prepaid shipping label for all returns within the US 48.
+If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within 7 days for the full purchase amount if your order was placed with Ground Service shipping. Orders that chose upgraded shipping options will be refunded less the upgraded shipping cost. Regardless of shipping method, we will provide a prepaid shipping label for all returns within the US 48.
 
 ---
 
