@@ -702,13 +702,13 @@ div.timeline-image a {
 /*--------- END TIMELINE */
 
 .buy-now {
-	background-color: #428bca;/*ff0000*/
-	border-color: #346fa1;/*b20000*/
+	background-color: #ff0000;/*ff0000*//*428bca*/
+	border-color: #b20000;/*b20000*//*346fa1*/
 }
 
 .btn-primary.buy-now:hover {
-	background-color: #346fa1;/*b20000*/
-	border-color: #275379;/*660000*/
+	background-color: #b20000;/*b20000*//*346fa1*/
+	border-color: #660000;/*660000*//*275379*/
 }
 
 .buy-now.center-block {
@@ -716,8 +716,8 @@ div.timeline-image a {
 }
 
 a.btn.btn-success.btn-lg.buy-now:hover {
-	background-color: #346fa1;/*b20000*/
-	border-color: #275379;/*660000*/
+	background-color: #b20000;/*b20000*//*346fa1*/
+	border-color: #660000;/*660000*//*275379*/
 }
 
 body {
