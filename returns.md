@@ -8,14 +8,13 @@ description: >-
 noindex: true
 ---
 
-
 ---
 
 &nbsp;Orders ship out the following business day.
 
 If you are not 100% satisfied with your purchase for any reason within the first 30 days, you can go through our easy online return process to receive a **FREE** prepaid return shipping label and a **100% refund including your original outbound shipping**\*.
 
-\*Product must be in **original packaging in new condition**. See our full return policy, including for those outside the US 48, below.
+\*Product must be in **original packaging in like-new condition**. See our full return policy, including for those outside the US 48, below.
 {: .small}
 
 ---
