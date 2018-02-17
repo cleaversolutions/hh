@@ -8,24 +8,18 @@ description: >-
 noindex: true
 ---
 
----
-
-&nbsp;Orders ship out the following business day.
-
 If you are not 100% satisfied with your purchase for any reason within the first 30 days, you can go through our easy online return process to receive a **FREE** prepaid return shipping label and a **100% refund including your original outbound shipping**\*.
 
 \*Product must be in **original packaging in like-new condition**. See our full return policy, including for those outside the US 48, below.
 {: .small}
 
----
-
-#### Free & Simple Returns – Effective August 5, 2016
+#### Free & Simple Returns&nbsp;
 
 To initiate a return, click the link at the bottom of your order confirmation email that says, “Click here to make a return.” You may also [fill out the form by clicking here](https://higherhangers.wufoo.com/forms/skmlnm61ln0dlf).
 
 ## WITHIN THE US 48 (all states besides Alaska and Hawaii)
 
-Within the US 48, we accept free, no cost returns for 30 days after receiving your order. If 30 days have gone by since you received your purchase, unfortunately we can’t offer you a refund or exchange.
+Within the US 48, we accept free, no cost returns for 30 days after receiving your order.
 
 To be eligible for a return, your item must be in like-new condition &**&nbsp;in the original packaging.**
 
@@ -42,10 +36,6 @@ Your refund will be processed, and a credit will automatically be applied to you
 ## OUTSIDE THE US 48 – Orders to Alaska, Hawaii, or outside the USA
 
 Outside the US 48, we accept free returns for 30 days after receiving your order. The customer must pay all shipping charges, both for the original order and the return. If 30 days have gone by since your purchase, unfortunately we can’t offer you a refund or exchange.
-
-To be eligible for a return, your item must be in like-new condition&nbsp;**in the original packaging.**
-
-To complete your return, simply click the “Return your Higher Hangers” link at the bottom of your order confirmation email. We will process a return merchandise authorization (RMA) that must be attached to your package. We will provide you with the shipping address for returns. Shipping charges for returns outside the US 48 must be paid by the customer.
 
 #### Refunds
 
