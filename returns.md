@@ -21,7 +21,7 @@ To initiate a return, click the link at the bottom of your order confirmation em
 
 Within the US 48, we accept free, no cost returns for 30 days after receiving your order.
 
-To be eligible for a return, your item must be in like-new condition &**&nbsp;in the original packaging.**
+* To be eligible for a return, your item must be in like-new condition &**&nbsp;in the original packaging.**
 
 To complete your return, simply click the “Return your Higher Hangers” link at the bottom of your order confirmation email. We will process a return merchandise authorization (RMA) and a free prepaid return shipping label that will be emailed to you. Simply attach your provided, prepaid label to your original packaging and drop it off at a FedEx, USPS, or UPS location (depending on which provider your label is for, and cover up or remove the original shipping label). You must ship the return within 7 days of receiving your return shipping label or be subject to a 25% restocking fee.
 
