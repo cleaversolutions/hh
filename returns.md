@@ -37,7 +37,7 @@ Outside the US 48, we accept free returns for 30 days after receiving your order
 
 ---
 
-## VAT may need to be paid by international customers
+## International Customers May be Responsible for VAT
 
 Higher Hangers have been sold in over 35 countries and there is no way for us to collect or calculate VAT for everyone. If you're purchasing internationally, please expect to be responsible for VAT in your country when receiving the order. Due to size, ALL items are shipped as individual shipments because they cannot be combined.
 
