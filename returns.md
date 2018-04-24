@@ -10,7 +10,7 @@ noindex: true
 
 Effective for orders placed on or after 4/25/18<br>&nbsp;
 
-If you are not 100% satisfied with your purchase for any reason within 30 days of delivery, we’re happy to offer you a **Full Refund**.<br><br>First, you need to request a Return Merchandise Authorization by [filling out the form, click here](https://higherhangers.wufoo.com/forms/skmlnm61ln0dlf). We will email you a return shipping label, and when we receive your item, you will get a **Full Refund for your original purchase**.
+If you are not 100% satisfied with your purchase for any reason within 30 days of delivery, we’re happy to offer you a **Full Refund for your original purchase**.<br><br>First, you need to request a Return Merchandise Authorization by [filling out the form, click here](https://higherhangers.wufoo.com/forms/skmlnm61ln0dlf). We will email you a return shipping label, and when we receive your item, you will get a **Full Refund for your original purchase**.
 
 Product must be in **original packaging in like-new condition with our RMA shipping label**. See our full return policy, including for those outside the US 48, below.
 {: .small}
