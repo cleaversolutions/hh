@@ -136,6 +136,44 @@ index: 'yes'
         <div class="container">
 
             <div class="row">
+            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading perfect-for">Higher Hangers Are Perfect For:</h2>
+            	</div>
+            </div>
+
+<!-- BEGIN Perfect For Loop-->
+{% for text in site.perfect_for %}
+	 {% capture loop_index %}{{ forloop.index }}{% endcapture %}
+  {% capture thecycle %}{% cycle '1', '2' %}{% endcapture %}
+
+{% if thecycle == '1' %}
+    
+   <div class="row">
+            	<div class="col-md-4 col-md-offset-1 col-sm-12 lead">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">{{ text.title }}</h3>
+                    <p class="lead">{{ text.content }}</p>
+            	</div>        	
+    {% else %}
+
+          <div class="col-md-4 col-md-offset-2 col-sm-12 lead">
+                    <div class="clearfix"></div>
+                    <h3 class="perfect-for">{{ text.title }}</h3>
+                    <p class="lead">{{ text.content }}</p>
+            	</div>	
+            </div>
+    {% endif %}
+{% endfor %}
+<!-- END Perfect For Loop -->
+
+
+<!-- BEGIN /.content-section-b -->   
+     <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
             	<div class="col-lg-10 col-lg-offset-1 col-sm-12 lead">
                     <div class="clearfix"></div>
                     <h2 class="section-heading perfect-for">Four Styles of Higher Hangers</h2>    
@@ -481,42 +519,6 @@ index: 'yes'
       </div><!-- END /.content-section-b --> 
       
       
-<!-- BEGIN /.content-section-b -->   
-     <div class="content-section-b">
-
-        <div class="container">
-
-            <div class="row">
-            	<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-lg-offset-1">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading perfect-for">Higher Hangers Are Perfect For:</h2>
-            	</div>
-            </div>
-
-<!-- BEGIN Perfect For Loop-->
-{% for text in site.perfect_for %}
-	 {% capture loop_index %}{{ forloop.index }}{% endcapture %}
-  {% capture thecycle %}{% cycle '1', '2' %}{% endcapture %}
-
-{% if thecycle == '1' %}
-    
-   <div class="row">
-            	<div class="col-md-4 col-md-offset-1 col-sm-12 lead">
-                    <div class="clearfix"></div>
-                    <h3 class="perfect-for">{{ text.title }}</h3>
-                    <p class="lead">{{ text.content }}</p>
-            	</div>        	
-    {% else %}
-
-          <div class="col-md-4 col-md-offset-2 col-sm-12 lead">
-                    <div class="clearfix"></div>
-                    <h3 class="perfect-for">{{ text.title }}</h3>
-                    <p class="lead">{{ text.content }}</p>
-            	</div>	
-            </div>
-    {% endif %}
-{% endfor %}
-<!-- END Perfect For Loop -->
 
 
 		
