@@ -33,7 +33,9 @@ Your refund will be processed, and a credit will automatically be applied to you
 
 ## OUTSIDE THE US 48 – Orders to Alaska, Hawaii, or outside the USA
 
-Outside the US 48, we accept free returns for 30 days after receiving your order. The customer must pay all shipping charges, both for the original order and the return. If 30 days have gone by since your purchase, unfortunately we can’t offer you a refund or exchange.
+Outside the US 48, we accept free returns for 30 days after receiving your order. The customer must pay all shipping charges, both for the original order and the return. 
+
+Please make sure you are absolutely sure about your delivery address as Higher Hangers will not be able to intercept or refund international shipping charges for delivery issues related to errors. All risk of international shipping is held by the customer and cannot be refunded as it is a sunk cost. 
 
 ---
 
