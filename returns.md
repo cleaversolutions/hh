@@ -23,7 +23,7 @@ Within the US 48, we accept free returns for 30 days after receiving your order.
 
 To complete your return, simply click the “Return your Higher Hangers” link at the bottom of your order confirmation email. We will process a return merchandise authorization (RMA) and provide you with a return return shipping label which **will need postage applied, paid for by the customer, similiar to Amazon and most online merchants**. The return label will be emailed to you within 2 business days of request. Simply attach our provided label to your original packaging and take it to a FedEx, USPS, or UPS location for return postage. You must ship the return within 7 days of receiving your return shipping label or be subject to a 25% restocking fee.
 
-#### Refunds
+## Refunds
 
 Once your return is received and inspected, we will send you an email to notify you that we have received your returned item and issued your refund.&nbsp;
 
