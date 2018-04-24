@@ -19,7 +19,7 @@ Product must be in **original packaging in like-new condition with our RMA shipp
 
 Within the US 48, we accept free returns for 30 days after receiving your order.
 
-* To be eligible for a return, your item must be in**like-new condition & in the original packaging and utilize our provided RMA shipping label**. If any of these conditions aren't met, we unfortunately cannot receive your return as everything is automated and standardized for exact packaging. If anything is incorrect, the product is discarded. &nbsp;
+* To be eligible for a return, your item must be in&nbsp;**like-new condition & in the original packaging and utilize our provided RMA shipping label**. If any of these conditions aren't met, we unfortunately cannot receive your return as everything is automated and standardized for exact packaging. If anything is incorrect, the product is discarded. &nbsp;
 
 To complete your return, simply click the “Return your Higher Hangers” link at the bottom of your order confirmation email. We will process a return merchandise authorization (RMA) and provide you with a return return shipping label which **will need postage applied, paid for by the customer, similiar to Amazon and most online merchants**. The return label will be emailed to you within 2 business days of request. Simply attach our provided label to your original packaging and take it to a FedEx, USPS, or UPS location for return postage. You must ship the return within 7 days of receiving your return shipping label or be subject to a 25% restocking fee.
 
