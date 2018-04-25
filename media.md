@@ -88,7 +88,7 @@ PO Box 4862
 Tulsa, OK 74104<br />
 <br /></li>
   <li><i class="fa-li fa fa-facebook"></i>Facebook: <a href="http://www.facebook.com/higherhangers">facebook.com/higherhangers</a></li>
-  <a href="https://www.instagram.com/higherhangers/">@higherhangers</a></li>
+  <li><i class="fa-li fa fa-instagram"></i>Instagram: <a href="https://www.instagram.com/higherhangers/">@higherhangers</a></li>
   <li><i class="fa-li fa fa-linkedin"></i>LinkedIn: <a href="http://www.linkedin.com/in/drewcleaver">linkedin.com/in/drewcleaver</a></li>
   <li><i class="fa-li fa fa-pinterest"></i>Pinterest: <a href="http://www.pinterest.com/higherhangers">pinterest.com/higherhangers</a></li>
   <li><i class="fa-li fa fa-skype"></i>Skype: drew.cleaver</li>
