@@ -85,7 +85,7 @@ You may use this page to help you write media articles pertaining to Higher Hang
   <li><i class="fa-li fa fa-link"></i>Kickstarter: <a href="http://kck.st/1SdfGfN">http://kck.st/1SdfGfN</a></li>
   <li><i class="fa-li fa fa-home"></i>Higher Hangers	<br />
 PO Box 4862
-Tulsa, OK 741259<br />
+Tulsa, OK 74104<br />
 <br /></li>
   <li><i class="fa-li fa fa-facebook"></i>Facebook: <a href="http://www.facebook.com/higherhangers">facebook.com/higherhangers</a></li>
   <li><i class="fa-li fa fa-instagram"></i>Instagram: <a href="https://www.instagram.com/drew.cleaver/">@drew.cleaver</a>, <a href="https://www.instagram.com/higherhangers/">@higherhangers</a></li>
