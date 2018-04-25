@@ -107,7 +107,8 @@ Tulsa, OK 74104<br />
 **Higher Hangers**
 
 - The #1 Hangers in Kickstarter history
-- Higher Hangers are the first vertical space-saving clothes hanger ever
+- Over 500,000 sold since launching on Kickstarter
+- Higher Hangers are the first vertical space-saving clothes hangers ever
 - Invented by college student Drew Cleaver in his dorm room to save space
 - U.S. Patent Number 7,404,503 awarded on first application
 - Higher Hangers save 4+ vertical inches over traditional clothes hangers
@@ -123,7 +124,7 @@ Tulsa, OK 74104<br />
 - **Limited Quanities up to 50% off retail price available through Kickstarter campaign**
 - Campaign runs through March 31
 - 100% Funded ($40,000) in three days
-- Delivery expected within 90 days of campaign close
+- Delivery completed within ~90 days of campaign close
 
 **Live Kickstarter Statistics**
 
@@ -167,7 +168,7 @@ Drew Cleaver invented Higher Hangers while living a cramped new life in his fres
 
 In 2010 he won a product search competition hosted by a major housewares retailer, but they were not able to bring Higher Hangers to market due to higher than anticipated levels of risk. In 2014 all Higher Hangers intellectual property was returned to Drew. After 6 years in oil & gas, Drew left the corporate world to bring Higher Hangers to market himself. 
 
-Drew attended Cypress Creek High School in Houston, TX and graduated from John Brown University in 2009 with a B.S. in Business Management. He has lived in Denver, Colorado since 2012 and enjoys cycling, skiing, and motorsport. 
+Drew attended Cypress Creek High School in Houston, TX and graduated from John Brown University in 2009 with a B.S. in Business Management. He now resides in Tulsa Oklahoma, and enjoys cycling, skiing, and motorsport. 
 
 <a href="#table" class="btn btn-info" role="button"><i class="fa fa-arrow-circle-up"></i>  Back to Table of Contents</a>
 
@@ -213,9 +214,8 @@ http://www.higherhangers.com
 Kickstarter: http://kck.st/1SdfGfN
 
 Higher Hangers	
-PO Box 11713
-Denver, CO 80211
-
+PO Box 4862
+Tulsa, OK 74104
 Skype: drew.cleaver
 
 Full media kit: http://www.higherhangers.com/media.html
@@ -274,8 +274,8 @@ http://www.higherhangers.com<br />
 Kickstarter: http://kck.st/1SdfGfN<br />
 
 Higher Hangers	<br />
-PO Box 11713<br />
-Denver, CO 80211<br />
+PO Box 4862<br />
+Tulsa, OK 74104<br />
 
 Skype: drew.cleaver
 
@@ -336,8 +336,8 @@ http://www.higherhangers.com<br />
 Kickstarter: http://kck.st/1SdfGfN<br />
 
 Higher Hangers	<br />
-PO Box 11713<br />
-Denver, CO 80211<br />
+PO Box 4862<br />
+Tulsa, OK 74104<br />
 
 Skype: drew.cleaver
 
@@ -391,8 +391,8 @@ http://www.higherhangers.com<br />
 Kickstarter: http://kck.st/1SdfGfN<br />
 
 Higher Hangers	<br />
-PO Box 11713<br />
-Denver, CO 80211<br />
+PO Box 4682<br />
+Tulsa, OK 74104<br />
 
 Skype: drew.cleaver
 
