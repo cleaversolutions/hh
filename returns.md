@@ -3,8 +3,7 @@ layout: one-column
 title: Full Return Policy
 subTitle: A Template by Start Bootstrap
 description: >-
-  Free & Simple Returns. 100% money back guarantee on orders placed within the
-  US 48.
+  Free & Simple Returns. 
 noindex: true
 ---
 
@@ -12,7 +11,7 @@ Effective for orders placed on or after 4/25/18<br>&nbsp;
 
 If you decide Higher Hangers are not for you within 30 days of delivery, we’re happy to offer you a **Full Refund for your original purchase**.<br><br>First, you need to request a Return Merchandise Authorization by [filling out the form, click here](https://higherhangers.wufoo.com/forms/skmlnm61ln0dlf). We will email you a return shipping label, and when we receive your item, you will get a **Full Refund for your original purchase**.
 
-In the event of partially defective product (it's rare, but occasionally happens) i.e. a few hangers are lower quality than the majority, we will offer a proportional refund for defective product. Contact us and let us know of the issue and include any pictures if you are able so that we can keep track and work with the factory to continually improve. 
+In the event of partially defective product (it's rare, but occasionally happens) i.e. a few hangers are lower quality than the majority, we will offer a proportional refund for defective product within the same 30 days. Contact us and let us know of the issue and include any pictures if you are able so that we can keep track and work with the factory to continually improve. We make hundreds of thousands of Higher Hangers at a pace of two per machine cycle, and the metal hooks on the slimlines are inserted by hand. We always strive for 100% perfection but occasionally human error happens.  
 
 Product must be in **original packaging in like-new condition with our RMA shipping label**. See our full return policy, including for those outside the US 48, below.
 {: .small}
